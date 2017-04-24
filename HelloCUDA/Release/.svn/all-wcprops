@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/224/trunk/HelloCUDA/Release
+END
+HelloCUDA.exe
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/224/trunk/HelloCUDA/Release/HelloCUDA.exe
+END
+HelloCUDA.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/224/trunk/HelloCUDA/Release/HelloCUDA.pdb
+END
+glut32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/203/trunk/HelloCUDA/Release/glut32.dll
+END

@@ -1,0 +1,47 @@
+\contentsline {section}{\numberline {1}Introduction}{4}
+\contentsline {section}{\numberline {2}Theoretical Overview}{4}
+\contentsline {subsection}{\numberline {2.1}Participating Media Interaction Processes}{4}
+\contentsline {subsubsection}{\numberline {2.1.1}Absorption}{5}
+\contentsline {subsubsection}{\numberline {2.1.2}Emission}{5}
+\contentsline {subsubsection}{\numberline {2.1.3}Out-Scattering}{6}
+\contentsline {subsubsection}{\numberline {2.1.4}In-Scattering}{8}
+\contentsline {subsection}{\numberline {2.2}The Equation of Transfer}{9}
+\contentsline {subsection}{\numberline {2.3}Volume Representation}{10}
+\contentsline {subsubsection}{\numberline {2.3.1}Eulerian / Grid Based}{11}
+\contentsline {subsubsection}{\numberline {2.3.2}Lagrangian / Particle Based}{11}
+\contentsline {subsection}{\numberline {2.4}Ray Marching}{11}
+\contentsline {subsection}{\numberline {2.5}Classic Volume Rendering Techniques}{12}
+\contentsline {subsubsection}{\numberline {2.5.1}Ray Tracing Methods}{12}
+\contentsline {subsubsection}{\numberline {2.5.2}Photon Mapping Methods}{12}
+\contentsline {section}{\numberline {3}Related Work}{14}
+\contentsline {subsection}{\numberline {3.1}Deep Shadow Maps}{14}
+\contentsline {subsection}{\numberline {3.2}Opacity Shadow Maps}{15}
+\contentsline {subsection}{\numberline {3.3}Deep Opacity Maps}{15}
+\contentsline {subsection}{\numberline {3.4}Fourier Opacity Mapping}{16}
+\contentsline {section}{\numberline {4}The Particle Based Participating Media Rendering Problem}{17}
+\contentsline {subsection}{\numberline {4.1}Volumetric Lighting Calculation}{18}
+\contentsline {subsubsection}{\numberline {4.1.1}Density Octree}{18}
+\contentsline {subsubsection}{\numberline {4.1.2}Density Octree Smoothing}{18}
+\contentsline {subsubsection}{\numberline {4.1.3}Lighting Evaluation}{18}
+\contentsline {subsection}{\numberline {4.2}Ray-Particle Intersection Testing}{19}
+\contentsline {subsubsection}{\numberline {4.2.1}Intersection Algorithm (Ray-Sphere)}{20}
+\contentsline {subsubsection}{\numberline {4.2.2}Intersection Algorithm (Ray-AABB)}{20}
+\contentsline {subsection}{\numberline {4.3}Solid Geometry Volumetric Shadowing}{20}
+\contentsline {subsection}{\numberline {4.4}Forward Density Integration using GPU Hardware}{20}
+\contentsline {subsubsection}{\numberline {4.4.1}Motion Blur}{21}
+\contentsline {subsubsection}{\numberline {4.4.2}Depth of Field}{21}
+\contentsline {subsection}{\numberline {4.5}Algorithmic Efficiency}{23}
+\contentsline {subsection}{\numberline {4.6}Spatial Partitioning Tree}{24}
+\contentsline {subsection}{\numberline {4.7}Multi-threading Support}{24}
+\contentsline {section}{\numberline {5}Performance Evaluation}{24}
+\contentsline {subsection}{\numberline {5.1}Image Quality vs. Particle Count}{24}
+\contentsline {subsection}{\numberline {5.2}Time vs. Particle Count}{24}
+\contentsline {subsection}{\numberline {5.3}Time vs. Number of Lights}{25}
+\contentsline {subsection}{\numberline {5.4}Time vs. Image Size}{25}
+\contentsline {subsection}{\numberline {5.5}Example Images}{25}
+\contentsline {section}{\numberline {6}Conclusion}{25}
+\contentsline {subsection}{\numberline {6.1}Conclusions}{25}
+\contentsline {subsection}{\numberline {6.2}Summary of Contributions}{25}
+\contentsline {subsection}{\numberline {6.3}Future Research}{25}
+\contentsline {subsubsection}{\numberline {6.3.1}Cache Efficient Octree}{25}
+\contentsline {subsubsection}{\numberline {6.3.2}GPU Implementation of Octree}{25}

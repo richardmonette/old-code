@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/99/trunk/BSPEngine/textures
+END
+front.tga
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/88/trunk/BSPEngine/textures/front.tga
+END
+normalmap.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/58/trunk/BSPEngine/textures/normalmap.bmp
+END
+left.tga
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/88/trunk/BSPEngine/textures/left.tga
+END
+Thumbs.db
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/99/trunk/BSPEngine/textures/Thumbs.db
+END
+right.tga
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/88/trunk/BSPEngine/textures/right.tga
+END
+dudvmap.tga
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/89/trunk/BSPEngine/textures/dudvmap.tga
+END
+back.tga
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/88/trunk/BSPEngine/textures/back.tga
+END
+top.tga
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/88/trunk/BSPEngine/textures/top.tga
+END
+test.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/BSPEngine/textures/test.bmp
+END
+dudvmap.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/BSPEngine/textures/dudvmap.bmp
+END
+normalmap.tga
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/89/trunk/BSPEngine/textures/normalmap.tga
+END

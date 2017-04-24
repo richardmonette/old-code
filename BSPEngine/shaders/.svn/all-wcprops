@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/trunk/BSPEngine/shaders
+END
+water.frag
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/99/trunk/BSPEngine/shaders/water.frag
+END
+water.vert
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/99/trunk/BSPEngine/shaders/water.vert
+END
+text.frag
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/93/trunk/BSPEngine/shaders/text.frag
+END
+default.frag
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/99/trunk/BSPEngine/shaders/default.frag
+END
+default.vert
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/87/trunk/BSPEngine/shaders/default.vert
+END
+text.vert
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/93/trunk/BSPEngine/shaders/text.vert
+END
+skybox.frag
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/89/trunk/BSPEngine/shaders/skybox.frag
+END
+skybox.vert
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/89/trunk/BSPEngine/shaders/skybox.vert
+END

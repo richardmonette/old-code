@@ -1,0 +1,62 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Math3D.cpp" caret="1324" scrollPosition="0|63" />
+      <File id="d:Miscellaneous Files/f:MiniTracer.cpp" caret="0" scrollPosition="0|0" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Math3D.h" caret="4591" scrollPosition="0|173" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="4870" scrollPosition="0|177" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="2275" scrollPosition="0|97" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="5757" scrollPosition="0|220" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="4565" scrollPosition="0|192" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="4565" scrollPosition="0|192" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="4446" scrollPosition="0|192" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="4449" scrollPosition="0|192" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="4565" scrollPosition="0|192" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="4370" scrollPosition="0|201" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="2268" scrollPosition="0|111" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="1958" scrollPosition="0|111" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="1039" scrollPosition="0|30" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="888" scrollPosition="0|30" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="960" scrollPosition="0|30" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="3147" scrollPosition="0|143" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="975" scrollPosition="0|35" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="4069" scrollPosition="0|176" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="2983" scrollPosition="0|134" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="3757" scrollPosition="0|178" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="2592" scrollPosition="0|139" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="3981" scrollPosition="0|190" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="2973" scrollPosition="0|142" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="2875" scrollPosition="0|142" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="112" scrollPosition="0|0" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="6098" scrollPosition="0|291" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="6193" scrollPosition="0|288" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="6062" scrollPosition="0|288" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="4827" scrollPosition="0|211" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="2648" scrollPosition="0|161" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="1643" scrollPosition="0|77" />
+      <File id="3D181EBA-95DD-47F8-8E08-231CA15731E9/f:Raymarching.cpp" caret="726" scrollPosition="0|32" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

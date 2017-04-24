@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{chen03}
+S.~Chen and R.~Ramli.
+\newblock Minimum mean brightness error bi-histogram equalization in contrast
+  enhancement.
+\newblock {\em IEEE Transactions on Consumer Electronics}, 2003.
+
+\bibitem{wiki_corn}
+Wikipedia Commons.
+\newblock Cornsweet illusion.
+\newblock 2010.
+
+\bibitem{purves99}
+A.~Shimpi D.~Purves and R.~Beau Lotto.
+\newblock An empirical explanation of the cornsweet effect.
+\newblock {\em The Journal of Neuroscience}, 1999.
+
+\bibitem{reinhard02}
+P.~Shirley E.~Reinhard, M.~Stark and J.~Ferwerda.
+\newblock Photographic tone reproduction for digital images.
+\newblock {\em ACM Trans. Graph. (special issue SIGGRAPH 2002)}, 2002.
+
+\bibitem{drago03}
+T.~Annen F.~Drago, K.~Myszkowski and N.~Chiba.
+\newblock Adaptive logarithmic mapping for displaying high contrast scenes.
+\newblock {\em The Journal of Computer Graphics Forum}, 2003.
+
+\bibitem{ward97}
+H.~Rushmeier G.~W.~Larson and C.~Piatko.
+\newblock A visibility matching tone reproduction operator for high dynamic
+  range scenes.
+\newblock 1997.
+
+\bibitem{duan05}
+G.~Qiu J.~Duan and M.~Chen.
+\newblock Comprehensive fast tone mapping for high dynamic range image
+  visualization.
+\newblock 2005.
+
+\bibitem{kim96}
+Y.~Kim.
+\newblock Contrast enhacement using brightness preserving bi-histogram
+  equalization.
+\newblock {\em IEEE Transactions on Consumer Electronics}, 1996.
+
+\bibitem{unsharp}
+S.~McHugh.
+\newblock Sharpening: Unsharp mask.
+\newblock 2010.
+\newblock www.cambridgeincolour.com/tutorials/unsharp-mask.htm.
+
+\bibitem{wang05}
+C.~Wang and Z.~Ye.
+\newblock Brightness preserving histogram equalization with maximum entropy: A
+  variational perspective.
+\newblock {\em IEEE Transactions on Consumer Electronics, Vol. 51, No. 4},
+  2005.
+
+\end{thebibliography}

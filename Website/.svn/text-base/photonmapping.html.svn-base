@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Computer Graphics - Richard Monette - Carleton University</title>
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+	<!-- Import fancy-type plugin for the sample page. -->
+	<link rel="stylesheet" href="blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	
+	<script type="text/javascript" src="js/prototype.js"></script>
+	<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+	<script type="text/javascript" src="js/lightbox.js"></script>
+	
+	<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+	
+</head>
+
+<body>
+
+	<div class="container">
+		<br>
+		<h1>Through the Digital Lens</h1>
+
+		<hr>
+		<h3 class="alt">The computer graphics work of Richard Monette</h3>
+		<hr>
+	</div>
+	
+	<div class="container">	
+		<div class="span-12 colborder" style="text-align:center;">
+			<span class="alt"><a href="index.html">Home</a></span>
+		</div>
+		<div class="span-11 last"  style="text-align:center;">
+			<span class="alt"><a href="mailto:richard dot monette at gmail dot com">Contact</a></span>
+		</div>
+	</div>
+	
+	<br>
+
+	<div class="container">
+				
+		<div class="span-12 prepend-1">	
+		
+			<a rel="lightbox[photon]" href="images/cornellbox_photon.png"><img src="images/cornellbox_photon.png" width="220" height="220"/></a>
+
+			<a rel="lightbox[photon]" href="images/redgreen_cornell.png"><img src="images/redgreen_cornell.png" width="220" height="220"/></a>
+			
+			<br>
+
+			<a rel="lightbox[photon]" href="images/trogdor.png"><img src="images/trogdor.png" width="220" height="220"/></a>
+
+			<a rel="lightbox[photon]" href="images/shiny_ferrari.png"><img src="images/shiny_ferrari.png" width="220" height="220"/></a>
+			
+			<span class="alt">Please click previews to see larger image.</span>
+
+			<div style="width:440px; padding-top:20px">
+			
+			<h5>Low Discrepancy Samplers</h5>
+			
+			<p>When using random sampling, a large number of samples can be required before a uniform distribution over the sample space is achieved. As a result, a relatively 
+			large number of samples are required to reduce noise when using random sampling. A more efficient strategy is to use low discrepancy sampling sequences which 
+			ensure a good distribution of samples over the sample space. One of the simplest such sequences is the van der Corput sequence which is a low discrepancy sequence
+			over a single dimension. Intalgio uses two dimensional Halton (a higher dimensional generalization of the van der Corput sequence) and the 
+			Hammersely sequences when sampling. The Hammersely sequence is used in most situations such as sampling luminaries. The Halton sequence is used specifically 
+			for generating photon emission directs as it is capable of generating samples even when the total number of required samples is unknown initially.</p>
+			
+			</div>
+			
+		</div>
+
+		<div class="span-10 prepend-0 last">	
+
+			<h3>Intaglio Photon Mapping Renderer</h3>
+			
+			<p>As part of a directed study project which I started in May 2010 I have been working developing my own rendering system
+			primarily based around the photon mapping algorithm presented by Henrik Wann Jensen in his book <a href="http://graphics.ucsd.edu/~henrik/papers/book/">Realistic 
+			Image Synthesis using Photon Mapping</a>.<p>
+			
+			<br>
+			
+			<p>Although I had previously worked with <a href="raytracing.html">path tracing approaches</a> to solving the rendering equation, I decided to implement a photon
+			mapping based rendering system because the algorithm allows for faster rendering while still being able to handle complex lighting interactions like caustics, 
+			global illumination and arbitrary BRDFs.<p> 
+			
+			<br>
+			
+			<p>The name Intalgio refers to the <a href="http://en.wikipedia.org/wiki/Intaglio_(printmaking)">printing process</a> often used for high end documents such as passports and currency. Some of Intalgio's features
+			include:</p>
+
+			<h5>Multi-threaded Network Rendering</h5>
+			
+			<p>One systems where multiple cores and/or processors are available, Intaglio will render in a fully multi-threaded configuration. Thread workload is handled by a
+			central work manager which assigns render regions to each thread in order to keep threads running efficiently and evenly. The workload manager can also handle 
+			sending render regions out to slave machines over a local area network making it possible to leverage multiple machines on a single render job.</p>
+			
+			<h5>Irradiance Caching</h5>
+			
+			<p>A so-called Final Gathering pass is normally used to reduce the low frequency noise that is otherwise characteristic of a direct visualization of the 
+			global photon map. The Final Gathering step consists of integrating a hemisphere over a given surface point and gathering the incident irradiance. This extra
+			level of indirection reduces noise. However, this Final Gathering step can be computationally intensive resulting in much longer rendering times. In order
+			to keep render times practical, Intaglio uses the Irradiance Caching algorithm which was first introduced by Greg Ward in the paper 
+			<a href="http://portal.acm.org/citation.cfm?id=378490">A ray tracing solution for diffuse interreflection</a>. Irradiance caching works by storing pre-computed 
+			irradiance values and then interpolating those values, usually according to distance, relative similarity of normals and position. Two passes can 
+			be used in order to ensure that pixels rendered in scanline order are coherent in terms of the cache values available. Intaglio uses an octree
+			data structure in order to accelerating searching for these points later during rendering.</p>
+			
+		</div>
+
+	</div>
+		
+	<br>
+	
+	<div class="container">
+		<hr>
+		<p class="alt">Computer Graphics - Richard Monette - Carleton University</p>
+		<hr>
+
+		<p><a href="http://validator.w3.org/check?uri=referer">
+		<img src="images/valid.png" alt="Valid HTML 4.01 Strict" height="31" width="88" class="top"></a></p>
+	</div>
+
+</body>
+</html>

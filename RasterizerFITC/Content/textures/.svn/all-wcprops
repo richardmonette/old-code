@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/146/trunk/RasterizerFITC/Content/textures
+END
+test.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/146/trunk/RasterizerFITC/Content/textures/test.bmp
+END
+dudvmap.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/146/trunk/RasterizerFITC/Content/textures/dudvmap.bmp
+END
+normalmap.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/146/trunk/RasterizerFITC/Content/textures/normalmap.bmp
+END
+NULL.tga
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/146/trunk/RasterizerFITC/Content/textures/NULL.tga
+END
+Thumbs.db
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/146/trunk/RasterizerFITC/Content/textures/Thumbs.db
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders
+END
+Light.fx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/Light.fx
+END
+Luminance.psh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/Luminance.psh
+END
+FinalCombine.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/FinalCombine.vsh
+END
+HDRSource.psh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/HDRSource.psh
+END
+FinalPass.psh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/FinalPass.psh
+END
+OcclusionMesh.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/OcclusionMesh.vsh
+END
+PostProcessing.psh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/PostProcessing.psh
+END
+RenderGBuffer.fx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/RenderGBuffer.fx
+END
+HDRSource.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/HDRSource.vsh
+END
+FinalCombine.psh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Content/shaders/FinalCombine.psh
+END

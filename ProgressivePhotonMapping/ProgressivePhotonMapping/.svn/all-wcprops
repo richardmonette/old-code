@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/192/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping
+END
+ObjModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/ObjModel.h
+END
+ProgressivePhotonMapping.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/172/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/ProgressivePhotonMapping.vcxproj.user
+END
+Triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/Triangle.cpp
+END
+cornell.mtl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/cornell.mtl
+END
+PhotonMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/180/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/PhotonMap.h
+END
+ONB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/ONB.cpp
+END
+BVH.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/BVH.cpp
+END
+Vector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/Vector2.h
+END
+SurfaceList.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/SurfaceList.h
+END
+Vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/Vector3.h
+END
+ObjModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/186/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/ObjModel.cpp
+END
+Surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/Surface.h
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/Camera.h
+END
+DynArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/DynArray.h
+END
+BBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/BBox.h
+END
+Ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/Ray.h
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/Scene.h
+END
+VolumePhotonMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/188/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/VolumePhotonMap.h
+END
+PhotonMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/190/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/PhotonMap.cpp
+END
+Triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/Triangle.h
+END
+ProgressivePhotonMapping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/192/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/ProgressivePhotonMapping.cpp
+END
+qsplit.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/qsplit.h
+END
+ONB.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/ONB.h
+END
+image.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/187/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/image.png
+END
+BVH.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/BVH.h
+END
+ProgressivePhotonMapping.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/187/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/ProgressivePhotonMapping.vcxproj
+END
+cornell.obj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/cornell.obj
+END
+ImprovedNoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/188/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/ImprovedNoise.h
+END
+image.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/175/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/image.ppm
+END
+ProgressivePhotonMapping.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/187/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/ProgressivePhotonMapping.vcxproj.filters
+END
+VolumePhotonMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/190/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/VolumePhotonMap.cpp
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/185/trunk/ProgressivePhotonMapping/ProgressivePhotonMapping/Scene.cpp
+END

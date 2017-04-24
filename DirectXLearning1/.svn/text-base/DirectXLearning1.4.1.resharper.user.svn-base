@@ -1,0 +1,87 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Engine.h" caret="439" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Luminance.cpp" caret="13588" scrollPosition="0|367" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:TextureManager.h" caret="273" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:HDRPipeline.h" caret="399" scrollPosition="0|6" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:MeshManager.cpp" caret="930" scrollPosition="0|9" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:HDRScene.h" caret="823" scrollPosition="0|22" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:HDRPipeline.cpp" caret="874" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Interactive3D.cpp" caret="0" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:PhysicsManager.h" caret="334" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:TextureManager.cpp" caret="191" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:HDRScene.cpp" caret="0" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:PostProcess.cpp" caret="1321" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:MenuEntry.cpp" caret="1054" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:UIManager.h" caret="81" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Interactive3D.h" caret="137" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Global.h" caret="277" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Camera.cpp" caret="2111" scrollPosition="0|58" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.h" caret="713" scrollPosition="0|12" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Handle.h" caret="387" scrollPosition="0|0" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Main.cpp" caret="1403" scrollPosition="0|15" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:InputManager.h" caret="862" scrollPosition="0|12" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:InputManager.cpp" caret="3474" scrollPosition="0|134" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:GameObject.h" caret="420" scrollPosition="0|9" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.cpp" caret="5834" scrollPosition="0|199" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:PhysicsManager.cpp" caret="3017" scrollPosition="0|107" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Handle.cpp" caret="566" scrollPosition="0|4" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:UIManager.cpp" caret="833" scrollPosition="0|17" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Engine.cpp" caret="2176" scrollPosition="0|71" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:GameObject.cpp" caret="502" scrollPosition="0|3" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:InputManager.cpp" caret="1662" scrollPosition="0|52" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Handle.cpp" caret="724" scrollPosition="0|7" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Handle.cpp" caret="729" scrollPosition="0|10" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.cpp" caret="1917" scrollPosition="0|47" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:InputManager.cpp" caret="1826" scrollPosition="0|70" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:InputManager.cpp" caret="2349" scrollPosition="0|70" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:InputManager.cpp" caret="2140" scrollPosition="0|70" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.h" caret="713" scrollPosition="0|12" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.cpp" caret="1484" scrollPosition="0|48" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:InputManager.cpp" caret="1776" scrollPosition="0|70" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Handle.cpp" caret="748" scrollPosition="0|12" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:GameObject.h" caret="1501" scrollPosition="0|31" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:GameObject.cpp" caret="2334" scrollPosition="0|70" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.cpp" caret="6464" scrollPosition="0|247" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.cpp" caret="6933" scrollPosition="0|247" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.cpp" caret="7300" scrollPosition="0|247" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.cpp" caret="4955" scrollPosition="0|174" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:GameObject.cpp" caret="2901" scrollPosition="0|124" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:GameObject.cpp" caret="2334" scrollPosition="0|55" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:InputManager.cpp" caret="3474" scrollPosition="0|134" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:GameObject.h" caret="420" scrollPosition="0|9" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.cpp" caret="1082" scrollPosition="0|34" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:SceneManager.cpp" caret="5834" scrollPosition="0|199" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Handle.cpp" caret="716" scrollPosition="0|6" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:GameObject.cpp" caret="2942" scrollPosition="0|110" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:PhysicsManager.cpp" caret="1903" scrollPosition="0|73" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:PhysicsManager.cpp" caret="2098" scrollPosition="0|73" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Handle.cpp" caret="776" scrollPosition="0|4" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Handle.cpp" caret="566" scrollPosition="0|4" />
+      <File id="A6BF3153-064D-4766-8C53-DF291E7BBB9E/f:Engine.cpp" caret="2091" scrollPosition="0|71" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

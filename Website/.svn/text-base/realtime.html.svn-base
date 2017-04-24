@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Computer Graphics - Richard Monette - Carleton University</title>
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+	<!-- Import fancy-type plugin for the sample page. -->
+	<link rel="stylesheet" href="blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+</head>
+
+<body>
+
+	<div class="container">
+		<br>
+		<h1>Through the Digital Lens</h1>
+
+		<hr>
+		<h3 class="alt">The computer graphics work of Richard Monette</h3>
+		<hr>
+	</div>
+	
+	<div class="container">	
+		<div class="span-12 colborder" style="text-align:center;">
+			<span class="alt"><a href="index.html">Home</a></span>
+		</div>
+		<div class="span-11 last"  style="text-align:center;">
+			<span class="alt"><a href="mailto:richard dot monette at gmail dot com">Contact</a></span>
+		</div>
+	</div>
+	
+	<br>
+
+	<div class="container">
+
+		<div class="span-9 last">	
+
+			<h3>Realtime <span class="alt">Graphics</span></h3>
+			
+			In addition to my offline, production rendering technique projects I have worked on a number of real-time game oriented projects.
+			
+			<br><br>
+			
+			Some highlights include:
+			
+			<br><br>
+			
+			<ul>
+				<li><a href="glasshouse.html">Glasshouse</a> - An XNA based first person adventure game featuring custom HLSL shaders (deferred rendering, post process, etc.)</li>
+				<li><a href="opengl_engine.html">OpenGL .bsp Engine</a> - A game engine tech demo which uses Quake III .bsp maps, nVidia PhysX and GLSL shaders.</li>
+			</ul>
+			
+		</div>
+
+	</div>
+	
+	<br>
+	
+	<div class="container">
+	
+		<div align="center" class="span-12 colborder">
+			<a href="images/one.png"><img src="images/one.png" width="320" height="240"/></a>	
+			<br><br><span class="alt">Example of a scene from the demo</span><br><br>
+			<a href="images/skoybox.png"><img src="images/skybox.png" width="320" height="240"/></a>
+			<br><br><span class="alt">Skybox effects</span><br><br>
+		</div>
+		
+		<div align="center" class="span-11 last">
+			<a href="images/toppledBoxes.png"><img src="images/toppledBoxes.png" width="320" height="240"/></a>
+			<br><br><span class="alt">PhysX in action</span><br><br>
+			<a href="images/reflection.png"><img src="images/reflection.png" width="320" height="240"/></a>
+			<br><br><span class="alt">Water reflection handled with GLSL shader</span><br><br>
+		</div>
+	
+	</div>
+	
+	<br>
+	
+	<div class="container">
+		<hr>
+		<p class="alt">Computer Graphics - Richard Monette - Carleton University</p>
+		<hr>
+
+		<p><a href="http://validator.w3.org/check?uri=referer">
+		<img src="images/valid.png" alt="Valid HTML 4.01 Strict" height="31" width="88" class="top"></a></p>
+	</div>
+
+</body>
+</html>

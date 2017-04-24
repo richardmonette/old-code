@@ -1,0 +1,695 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/242/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer
+END
+BVH.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/BVH.h
+END
+IrradianceCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/161/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/IrradianceCache.cpp
+END
+Sphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Sphere.cpp
+END
+Octree.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/148/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Octree.h
+END
+PhotonMappingRaytracer.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/PhotonMappingRaytracer.vcxproj.user
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/157/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Image.h
+END
+WorkGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/162/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/WorkGenerator.cpp
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Scene.cpp
+END
+IrradianceMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/139/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/IrradianceMap.cpp
+END
+DielectricMaterial.bak
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DielectricMaterial.bak
+END
+Sample1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Sample1.cpp
+END
+Sample2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Sample2.cpp
+END
+Triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/149/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Triangle.cpp
+END
+emptyRoom.mtl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/emptyRoom.mtl
+END
+staircase.obj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/156/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/staircase.obj
+END
+DiffSpecMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DiffSpecMaterial.h
+END
+SolidNoise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/SolidNoise.cpp
+END
+cornell.mtl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/cornell.mtl
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Matrix.h
+END
+Instance.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Instance.h
+END
+sponza.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/136/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/sponza.png
+END
+PhongMetalMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/PhongMetalMaterial.cpp
+END
+sobel.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/140/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/sobel.ppm
+END
+SimpleTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/SimpleTexture.h
+END
+buddha.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/122/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/buddha.obj
+END
+dragon_diffuse.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/122/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/dragon_diffuse.png
+END
+Octree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/148/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Octree.cpp
+END
+MeshTriangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/MeshTriangle.cpp
+END
+IrradienceCaching.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/117/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/IrradienceCaching.png
+END
+Vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/141/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Vector3.h
+END
+output.hdr
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/output.hdr
+END
+Sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Sphere.h
+END
+RandomMwc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/118/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/RandomMwc.hpp
+END
+jensen.mtl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/jensen.mtl
+END
+Surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Surface.h
+END
+DynArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DynArray.h
+END
+Ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Ray.h
+END
+particleData.pdt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/particleData.pdt
+END
+DiffuseMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/138/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DiffuseMaterial.cpp
+END
+brick.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/140/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/brick.ppm
+END
+LuminaireMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/138/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/LuminaireMaterial.cpp
+END
+Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Texture.h
+END
+DynSphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DynSphere.h
+END
+Renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Renderer.cpp
+END
+Sample1.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Sample1.h
+END
+ImageTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/ImageTexture.h
+END
+PhotonMappingRaytracer.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/154/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/PhotonMappingRaytracer.vcxproj
+END
+directmap_test.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/117/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/directmap_test.png
+END
+SolidNoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/SolidNoise.h
+END
+rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/131/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/rgb.h
+END
+broken_caustics.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/122/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/broken_caustics.png
+END
+PhotonMappingRaytracer.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/PhotonMappingRaytracer.vcxproj.filters
+END
+qsplit.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/qsplit.h
+END
+desk.hdr
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/desk.hdr
+END
+Parallelogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Parallelogram.cpp
+END
+Vertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Vertex.h
+END
+BVH.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/BVH.cc
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Util.h
+END
+emptyRoom.obj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/emptyRoom.obj
+END
+cornell.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/169/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/cornell.obj
+END
+DielectricMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/138/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DielectricMaterial.cpp
+END
+MeshTriangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/MeshTriangle.h
+END
+MarbleTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/MarbleTexture.h
+END
+sponza_texture.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/140/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/sponza_texture.png
+END
+shiny_AA.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/shiny_AA.png
+END
+MirrorMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/MirrorMaterial.h
+END
+NoiseTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/NoiseTexture.cpp
+END
+finalgather_aa_irradience_cache.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/finalgather_aa_irradience_cache.png
+END
+ObjModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/154/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/ObjModel.h
+END
+DynSphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DynSphere.cpp
+END
+sponza.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/sponza.obj
+END
+ImageTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/138/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/ImageTexture.cpp
+END
+shiny_buddha.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/122/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/shiny_buddha.png
+END
+Material.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Material.h
+END
+DiffuseMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DiffuseMaterial.h
+END
+LuminaireMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/148/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/LuminaireMaterial.h
+END
+water.obj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/122/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/water.obj
+END
+PhotonMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/PhotonMap.h
+END
+jensen.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/jensen.obj
+END
+Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Renderer.h
+END
+ONB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/ONB.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/157/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Image.cpp
+END
+first_nice_solution.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/120/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/first_nice_solution.png
+END
+MarbleTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/MarbleTexture.cpp
+END
+Parallelogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Parallelogram.h
+END
+RandomMwc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/118/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/RandomMwc.cpp
+END
+staircase.mtl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/staircase.mtl
+END
+MirrorMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/138/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/MirrorMaterial.cpp
+END
+SurfaceList.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/SurfaceList.h
+END
+Vector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Vector2.h
+END
+IrradianceCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/161/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/IrradianceCache.h
+END
+DielectricMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DielectricMaterial.h
+END
+ObjModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/ObjModel.cpp
+END
+anti_aliased_testscene.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/126/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/anti_aliased_testscene.png
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Camera.h
+END
+WorkGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/148/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/WorkGenerator.h
+END
+BBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/BBox.h
+END
+PhotonMappingRaytracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/242/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/PhotonMappingRaytracer.cpp
+END
+Mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Mesh.h
+END
+dragon.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/122/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/dragon.obj
+END
+DiffSpecMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/DiffSpecMaterial.cpp
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/149/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Scene.h
+END
+NoiseTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/NoiseTexture.h
+END
+Matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Matrix.cpp
+END
+Instance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/147/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Instance.cpp
+END
+IrradianceMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/139/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/IrradianceMap.h
+END
+PhotonMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/PhotonMap.cpp
+END
+Sample2.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/150/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Sample2.h
+END
+Triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/149/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/Triangle.h
+END
+SimpleTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/SimpleTexture.cpp
+END
+caustics_softshadows_no_GI.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/caustics_softshadows_no_GI.png
+END
+shiny_AA_SobelMap.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/shiny_AA_SobelMap.png
+END
+PhongMetalMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/PhongMetalMaterial.h
+END
+image_out.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/241/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/image_out.ppm
+END
+ONB.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/116/trunk/PhotonMappingRaytracer/PhotonMappingRaytracer/ONB.h
+END

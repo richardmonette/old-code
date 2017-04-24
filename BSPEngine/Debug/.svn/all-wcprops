@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/trunk/BSPEngine/Debug
+END
+freeglut.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/89/trunk/BSPEngine/Debug/freeglut.dll
+END
+BSPEngine.log
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/BSPEngine.log
+END
+vc100.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/vc100.pdb
+END
+OpenAL32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/OpenAL32.dll
+END
+Main.obj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/Main.obj
+END
+PhysXCore.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/BSPEngine/Debug/PhysXCore.dll
+END
+Camera.obj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/Camera.obj
+END
+Quake3Bsp.obj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/Quake3Bsp.obj
+END
+BSPEngine.exe.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/BSPEngine.exe.intermediate.manifest
+END
+BSPEngine.Build.CppClean.log
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/BSPEngine.Build.CppClean.log
+END
+NxCharacter.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/58/trunk/BSPEngine/Debug/NxCharacter.dll
+END
+BSPEngine.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/BSPEngine.pdb
+END
+EntityManager.obj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/EntityManager.obj
+END
+BspLoader6.exe
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/89/trunk/BSPEngine/Debug/BspLoader6.exe
+END
+Entity.obj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/Entity.obj
+END
+PhysicsManager.obj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/PhysicsManager.obj
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/90/trunk/BSPEngine/Debug/mt.dep
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/90/trunk/BSPEngine/Debug/BuildLog.htm
+END
+BSPEngine.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/BSPEngine.exe
+END
+Mat4x4.obj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/Mat4x4.obj
+END
+Image.obj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/Image.obj
+END
+BSPEngine.lastbuildstate
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/BSPEngine.lastbuildstate
+END
+PhysXCooking.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/58/trunk/BSPEngine/Debug/PhysXCooking.dll
+END
+cooking.obj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/cooking.obj
+END
+Stream.obj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/Stream.obj
+END
+Player.obj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/Player.obj
+END
+BspLoader6.lib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/85/trunk/BSPEngine/Debug/BspLoader6.lib
+END
+PhysXLoader.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/58/trunk/BSPEngine/Debug/PhysXLoader.dll
+END
+glew32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/BSPEngine/Debug/glew32.dll
+END
+Frustum.obj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/Frustum.obj
+END
+alut.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/99/trunk/BSPEngine/Debug/alut.dll
+END

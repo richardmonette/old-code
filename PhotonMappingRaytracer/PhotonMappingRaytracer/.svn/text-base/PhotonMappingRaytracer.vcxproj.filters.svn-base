@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="PhotonMappingRaytracer.cpp" />
+    <ClCompile Include="BVH.cc" />
+    <ClCompile Include="DynSphere.cpp" />
+    <ClCompile Include="Image.cpp" />
+    <ClCompile Include="Instance.cpp" />
+    <ClCompile Include="Matrix.cpp" />
+    <ClCompile Include="MeshTriangle.cpp" />
+    <ClCompile Include="ONB.cpp" />
+    <ClCompile Include="Sample1.cpp" />
+    <ClCompile Include="Sample2.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="SolidNoise.cpp" />
+    <ClCompile Include="PhotonMap.cpp" />
+    <ClCompile Include="RandomMwc.cpp" />
+    <ClCompile Include="IrradianceCache.cpp" />
+    <ClCompile Include="ObjModel.cpp" />
+    <ClCompile Include="Octree.cpp" />
+    <ClCompile Include="Renderer.cpp" />
+    <ClCompile Include="IrradianceMap.cpp" />
+    <ClCompile Include="DielectricMaterial.cpp">
+      <Filter>Materials</Filter>
+    </ClCompile>
+    <ClCompile Include="DiffSpecMaterial.cpp">
+      <Filter>Materials</Filter>
+    </ClCompile>
+    <ClCompile Include="DiffuseMaterial.cpp">
+      <Filter>Materials</Filter>
+    </ClCompile>
+    <ClCompile Include="LuminaireMaterial.cpp">
+      <Filter>Materials</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageTexture.cpp">
+      <Filter>Textures</Filter>
+    </ClCompile>
+    <ClCompile Include="MarbleTexture.cpp">
+      <Filter>Textures</Filter>
+    </ClCompile>
+    <ClCompile Include="MirrorMaterial.cpp">
+      <Filter>Materials</Filter>
+    </ClCompile>
+    <ClCompile Include="PhongMetalMaterial.cpp">
+      <Filter>Materials</Filter>
+    </ClCompile>
+    <ClCompile Include="NoiseTexture.cpp">
+      <Filter>Textures</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleTexture.cpp">
+      <Filter>Textures</Filter>
+    </ClCompile>
+    <ClCompile Include="WorkGenerator.cpp" />
+    <ClCompile Include="Parallelogram.cpp">
+      <Filter>Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="Sphere.cpp">
+      <Filter>Shapes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BBox.h" />
+    <ClInclude Include="BVH.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="DynArray.h" />
+    <ClInclude Include="DynSphere.h" />
+    <ClInclude Include="Image.h" />
+    <ClInclude Include="Instance.h" />
+    <ClInclude Include="Material.h" />
+    <ClInclude Include="Matrix.h" />
+    <ClInclude Include="Mesh.h" />
+    <ClInclude Include="MeshTriangle.h" />
+    <ClInclude Include="ONB.h" />
+    <ClInclude Include="qsplit.h" />
+    <ClInclude Include="Ray.h" />
+    <ClInclude Include="rgb.h" />
+    <ClInclude Include="Sample1.h" />
+    <ClInclude Include="Sample2.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="SolidNoise.h" />
+    <ClInclude Include="Surface.h" />
+    <ClInclude Include="SurfaceList.h" />
+    <ClInclude Include="Texture.h" />
+    <ClInclude Include="Vector2.h" />
+    <ClInclude Include="Vector3.h" />
+    <ClInclude Include="Vertex.h" />
+    <ClInclude Include="PhotonMap.h" />
+    <ClInclude Include="RandomMwc.hpp" />
+    <ClInclude Include="IrradianceCache.h" />
+    <ClInclude Include="ObjModel.h" />
+    <ClInclude Include="Octree.h" />
+    <ClInclude Include="Renderer.h" />
+    <ClInclude Include="Util.h" />
+    <ClInclude Include="IrradianceMap.h" />
+    <ClInclude Include="DielectricMaterial.h">
+      <Filter>Materials</Filter>
+    </ClInclude>
+    <ClInclude Include="DiffSpecMaterial.h">
+      <Filter>Materials</Filter>
+    </ClInclude>
+    <ClInclude Include="DiffuseMaterial.h">
+      <Filter>Materials</Filter>
+    </ClInclude>
+    <ClInclude Include="LuminaireMaterial.h">
+      <Filter>Materials</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageTexture.h">
+      <Filter>Textures</Filter>
+    </ClInclude>
+    <ClInclude Include="MarbleTexture.h">
+      <Filter>Textures</Filter>
+    </ClInclude>
+    <ClInclude Include="MirrorMaterial.h">
+      <Filter>Materials</Filter>
+    </ClInclude>
+    <ClInclude Include="PhongMetalMaterial.h">
+      <Filter>Materials</Filter>
+    </ClInclude>
+    <ClInclude Include="NoiseTexture.h">
+      <Filter>Textures</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleTexture.h">
+      <Filter>Textures</Filter>
+    </ClInclude>
+    <ClInclude Include="WorkGenerator.h" />
+    <ClInclude Include="Parallelogram.h">
+      <Filter>Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>Shapes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Materials">
+      <UniqueIdentifier>{5b724f4d-d29d-4edc-806b-2d4a09f3de63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Textures">
+      <UniqueIdentifier>{32593197-bfc4-4aa8-883c-357b4fed2207}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shapes">
+      <UniqueIdentifier>{bb51c3b2-3b70-4325-8b58-7dc68e804414}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

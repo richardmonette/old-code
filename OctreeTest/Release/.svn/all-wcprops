@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/215/trunk/OctreeTest/Release
+END
+OctreeTest.exe
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/215/trunk/OctreeTest/Release/OctreeTest.exe
+END
+OctreeTest.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/215/trunk/OctreeTest/Release/OctreeTest.pdb
+END
+glut32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/212/trunk/OctreeTest/Release/glut32.dll
+END

@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Computer Graphics - Richard Monette - Carleton University</title>
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+	<!-- Import fancy-type plugin for the sample page. -->
+	<link rel="stylesheet" href="blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+</head>
+
+<body>
+
+	<div class="container">
+		<br>
+		<h1>Through the Digital Lens</h1>
+
+		<hr>
+		<h3 class="alt">The computer graphics work of Richard Monette</h3>
+		<hr>
+	</div>
+	
+	<div class="container">	
+		<div class="span-12 colborder" style="text-align:center;">
+			<span class="alt"><a href="index.html">Home</a></span>
+		</div>
+		<div class="span-11 last"  style="text-align:center;">
+			<span class="alt"><a href="mailto:richard dot monette at gmail dot com">Contact</a></span>
+		</div>
+	</div>
+	
+	<br>
+
+	<div class="container">
+				
+		<div class="span-13 prepend-1 colborder">	
+		
+		<span class="alt">41 4C 4C  49 4E  41 4C 43 48 45 4D 59 <br>
+		<br>
+		4E 4F  44 52 41 57 54 52 49 41 4E 47 4C 45 53 <br></span>
+		
+			<br>
+			
+			<h3>Performance Examples</h3>
+			
+			<a href="flashdemos/0_cube_10tris.swf">Cube</a> <span class="alt">approx. 10 tris in the scene</span>
+			<br><br>
+			This demo shows a simple cube being rendered with full perspective texture mapping. Should be 60fps
+			on any modern machine.
+			<br><br>
+			
+			<a href="flashdemos/1_cube_1000tris.swf">Cube</a> <span class="alt">approx. 1,000 tris in the scene</span>
+			<br><br>
+			Similar scene, but the cube has been more heavily tesselated (triangulated).
+			<br><br>
+			
+			<a href="flashdemos/2_teapot_7000tris.swf">Teapot</a> <span class="alt">approx. 7,000 tris in the scene</span>
+			<br><br>
+			Standard graphics test object, the <a href="http://en.wikipedia.org/wiki/Utah_teapot">Utah Teapot</a>.
+			<br><br>
+			
+			<a href="flashdemos/3_fourTeapots_25000tris.swf">Four Teapots</a> <span class="alt">approx. 25,000 tris in the scene</span>
+			<br><br>
+			If you can render one, then why not try and render four?
+			<br><br>
+			
+			
+			<a href="flashdemos/4_cow_100000tris.swf">Cow</a> <span class="alt" style="color:#FF0000">WARNING</span> <span class="alt">approx. 100,000 tris in the scene</span>
+			<br><br>
+			This is the performance limit on my machine. I get around 20fps on my Intel Core 2 Duo based system.
+			<br><br>
+			
+			<h3>Lighting Examples</h3>
+			
+			<a href="flashdemos/5_cow_lambert_25000tris.swf">Lambert Lighting Cow</a> <span class="alt">approx. 25,000 tris in the scene</span>
+			<br><br>
+			Cow model being lit by a single light, lambert light model.
+			<br><br>
+			
+			<a href="flashdemos/6_cow_3point_lighting.swf">Cow Model, Three Lights</a> <span class="alt">approx. 25,000 tris in the scene</span>
+			<br><br>
+			Cow being lit by 3 colored lights. 40-50fps on most (modern) machines.
+			<br><br>
+			
+			
+			<a href="flashdemos/7_cow_clay_lighting.swf">Cow Model, Environment Lighting</a> <span class="alt">approx. 25,000 tris in the scene</span>
+			<br><br>
+			Approximating an environment lighting effect with 3 directional light sources.
+			<br><br>
+			
+		</div>
+
+		<div class="span-9 last">	
+
+			<h3><span class="alt">3D Rasterization</span> in the Flash Player</h3>
+			
+			These demos demonstrate the ability of the Flash Player to render relatively high quality 3D graphics
+			when the appropriate transform, lighting and rasterization algorithms are implemented.
+			<br><br>
+			In order to get the best performance possible I wrote these demos entirely in C++ which is then compiled to ActionScript 3
+			using the <a href="http://labs.adobe.com/technologies/alchemy/">Alchemy</a> toolchain. There is a small AS3 based host that loads the compiled .swc (code library that Alchemy produces)
+			file in each demo.
+			<br><br>
+			Please note that in all demos full perspective correction is being done per pixel. All the scenes are fully dynamic,
+			lighting is as noted in the demo description.
+			<br><br>
+			There are 0 (zero) calls to DrawTriangles in these demos!
+			
+		</div>
+
+	</div>
+	
+	<br>
+	
+	<div class="container">
+		<hr>
+		<p class="alt">Computer Graphics - Richard Monette - Carleton University</p>
+		<hr>
+
+		<p><a href="http://validator.w3.org/check?uri=referer">
+		<img src="valid.png" alt="Valid HTML 4.01 Strict" height="31" width="88" class="top"></a></p>
+	</div>
+
+</body>
+</html>

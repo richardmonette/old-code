@@ -1,0 +1,52 @@
+\relax 
+\citation{duan05}
+\citation{duan05}
+\citation{duan05}
+\citation{drago03}
+\citation{reinhard02}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Abstract}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Introduction}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Adaptive Luminance Mapping}{1}}
+\citation{ward97}
+\citation{kim96}
+\citation{wang05}
+\citation{chen03}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Global Contrast Enhancement}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Brightness Preserving Bi-Histogram Equalization (BBHE)}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Example of naive histogram equalization}}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Minimum Mean Brightness Error Bi-Histogram Equalization in Contrast Enhancement (MMBEBHE)}{2}}
+\citation{purves99}
+\citation{wiki_corn}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Example of Brightness Preserving Bi-Histogram Equalization}}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Local Contrast Enhancement}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}The Cornsweet Illusion}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Actual versus perceived signal\cite  {wiki_corn}}}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Unsharp Masking}{3}}
+\citation{unsharp}
+\citation{unsharp}
+\citation{unsharp}
+\citation{unsharp}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Laplacian sharpening kernel}}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Example of original and then sharpened image segment\cite  {unsharp}}}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Left: Normal signal showing with theoretical ideal overlayed Right: Unsharp mask signal overlayed\cite  {unsharp}}}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Memorial scene tone mapped without (left) and with (right) local contrast enhancement}}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Results}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Atrium scene in morning.}}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Atrium scene in night. Note that no parameters required adjustment for these images because of the brightness preserving histogram equalization.}}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Cathedral scene mapped with our operator}}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Performance}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Rosette scene mapped with our operator}}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Conclusion}{5}}
+\bibdata{tonemappingbib}
+\bibcite{chen03}{1}
+\bibcite{wiki_corn}{2}
+\bibcite{purves99}{3}
+\bibcite{reinhard02}{4}
+\bibcite{drago03}{5}
+\bibcite{ward97}{6}
+\bibcite{duan05}{7}
+\bibcite{kim96}{8}
+\bibcite{unsharp}{9}
+\bibcite{wang05}{10}
+\bibstyle{plain}
+\@writefile{toc}{\contentsline {section}{\numberline {9}Acknowledgements}{6}}

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Entity">
+      <UniqueIdentifier>{9ab8297d-4aaf-4295-bc4f-e1ecacf70e26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Types">
+      <UniqueIdentifier>{a440f0a6-19fa-473e-9b9e-a61ef8e3f897}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{92449f32-96ec-4fb3-83b7-fb80028de700}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{0cddf836-0130-47f6-8ffc-f011b85a5077}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics">
+      <UniqueIdentifier>{5325fccf-38a8-41f4-89f5-e17d85e875ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gl">
+      <UniqueIdentifier>{8d151f94-901c-467f-b7a3-5a87ffc694ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="al">
+      <UniqueIdentifier>{9d9ad61b-4fee-4e42-80a6-46ddcfe77354}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityManager.cpp">
+      <Filter>Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Quake3Bsp.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Skybox.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultShader.cpp">
+      <Filter>Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyboxShader.cpp">
+      <Filter>Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterShader.cpp">
+      <Filter>Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics\cooking.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics\PhysicsManager.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics\Stream.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="Frustum.cpp" />
+    <ClCompile Include="Image.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Mat4x4.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Flythrough.cpp" />
+    <ClCompile Include="Sound.cpp" />
+    <ClCompile Include="TextShader.cpp">
+      <Filter>Shaders</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Entity.h">
+      <Filter>Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityManager.h">
+      <Filter>Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="types.h">
+      <Filter>Types</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Types</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Types</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector4.h">
+      <Filter>Types</Filter>
+    </ClInclude>
+    <ClInclude Include="Quake3Bsp.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Skybox.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Water.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultShader.h">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyboxShader.h">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterShader.h">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics\PhysicsManager.h">
+      <Filter>Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics\UpdateTime.h">
+      <Filter>Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="gl\glext.h">
+      <Filter>gl</Filter>
+    </ClInclude>
+    <ClInclude Include="gl\wglext.h">
+      <Filter>gl</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="Frustum.h" />
+    <ClInclude Include="Image.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="Mat4x4.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Flythrough.h" />
+    <ClInclude Include="Sound.h" />
+    <ClInclude Include="al\al.h">
+      <Filter>al</Filter>
+    </ClInclude>
+    <ClInclude Include="al\alc.h">
+      <Filter>al</Filter>
+    </ClInclude>
+    <ClInclude Include="al\alut.h">
+      <Filter>al</Filter>
+    </ClInclude>
+    <ClInclude Include="TextShader.h">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

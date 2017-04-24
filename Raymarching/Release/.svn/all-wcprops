@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/111/trunk/Raymarching/Release
+END
+Raymarching.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111/trunk/Raymarching/Release/Raymarching.pdb
+END
+sfml-graphics.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/106/trunk/Raymarching/Release/sfml-graphics.dll
+END
+sfml-audio.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/106/trunk/Raymarching/Release/sfml-audio.dll
+END
+sfml-system.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/106/trunk/Raymarching/Release/sfml-system.dll
+END
+sfml-window.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/106/trunk/Raymarching/Release/sfml-window.dll
+END
+sfml-network.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/106/trunk/Raymarching/Release/sfml-network.dll
+END
+Raymarching.exe
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111/trunk/Raymarching/Release/Raymarching.exe
+END

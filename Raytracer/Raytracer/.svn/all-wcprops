@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/65/trunk/Raytracer/Raytracer
+END
+EmissionIntegrator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/EmissionIntegrator.cpp
+END
+ReferenceCounted.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/ReferenceCounted.h
+END
+Math3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Math3D.h
+END
+SurfaceIntegrator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/SurfaceIntegrator.cpp
+END
+Point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Point.cpp
+END
+Film.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Film.h
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Camera.h
+END
+Raytracer.vcproj.EXPERIENCE.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Raytracer.vcproj.EXPERIENCE.Administrator.user
+END
+BBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/BBox.h
+END
+Shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Shape.cpp
+END
+Ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Ray.h
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Scene.h
+END
+Spectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Spectrum.cpp
+END
+Vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Vector.cpp
+END
+PerspectiveCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/PerspectiveCamera.cpp
+END
+Reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Reference.h
+END
+DirectLighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/DirectLighting.h
+END
+Sampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Sampler.h
+END
+RayDifferential.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/RayDifferential.cpp
+END
+Transform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Transform.cpp
+END
+Light.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Light.h
+END
+DifferentialGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/DifferentialGeometry.h
+END
+Primitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Primitive.h
+END
+ReferenceCounted.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/ReferenceCounted.cpp
+END
+Math3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Math3D.cpp
+END
+Integrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Integrator.h
+END
+Sample.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Sample.h
+END
+ProjectiveCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/ProjectiveCamera.h
+END
+EmissionIntegrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/EmissionIntegrator.h
+END
+BBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/BBox.cpp
+END
+Ray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Ray.cpp
+END
+SurfaceIntegrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/SurfaceIntegrator.h
+END
+Raytracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Raytracer.cpp
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Scene.cpp
+END
+Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Point.h
+END
+Geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Geometry.h
+END
+DirectLighting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/DirectLighting.cpp
+END
+Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Shape.h
+END
+PerspectiveCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/PerspectiveCamera.h
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Vector.h
+END
+Spectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Spectrum.h
+END
+Light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Light.cpp
+END
+Primitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/Primitive.cpp
+END
+DifferentialGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/DifferentialGeometry.cpp
+END
+Matrix4x4.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Matrix4x4.h
+END
+VolumeIntegrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/VolumeIntegrator.h
+END
+Raytracer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Raytracer.vcproj
+END
+RayDifferential.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/trunk/Raytracer/Raytracer/RayDifferential.h
+END
+GlobalDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/GlobalDefine.h
+END
+Transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/Transform.h
+END
+VolumeRegion.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/VolumeRegion.h
+END
+ProjectiveCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/ProjectiveCamera.cpp
+END
+VisibilityTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/62/trunk/Raytracer/Raytracer/VisibilityTester.h
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/mt.dep
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/BuildLog.htm
+END
+Main.obj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/Main.obj
+END
+PostProcess.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/PostProcess.obj
+END
+AABB.obj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/AABB.obj
+END
+MenuEntry.obj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/MenuEntry.obj
+END
+MeshManager.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/MeshManager.obj
+END
+SceneManager.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/SceneManager.obj
+END
+DirectXLearning1.exe.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/DirectXLearning1.exe.intermediate.manifest
+END
+Camera.obj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/Camera.obj
+END
+InputManager.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/InputManager.obj
+END
+StringUtility.obj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/StringUtility.obj
+END
+ModelManager.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/ModelManager.obj
+END
+HDRScene.obj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/HDRScene.obj
+END
+Handle.obj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/Handle.obj
+END
+TextureManager.obj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/TextureManager.obj
+END
+GameObject.obj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/GameObject.obj
+END
+HDRPipeline.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/HDRPipeline.obj
+END
+Menu.obj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/Menu.obj
+END
+Interactive3D.obj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/Interactive3D.obj
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/vc90.idb
+END
+Engine.obj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/Engine.obj
+END
+UIManager.obj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/UIManager.obj
+END
+Luminance.obj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/Luminance.obj
+END
+vc90.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Release/vc90.pdb
+END

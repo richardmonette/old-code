@@ -1,0 +1,38 @@
+
+* 
+{
+	background-color:#333;
+	font-family:Aharoni,Verdana;
+}
+
+p
+{
+	font-size:10pt;
+}
+
+#wrapper
+{
+	width:1000px;
+	margin:auto;
+	padding-top:10px;
+	color:#EEE;
+}
+
+#left_column
+{
+	float: left;
+	padding:20px;
+}
+
+#right_column
+{
+	float: left;
+	padding:20px;
+	width:400px;
+}
+
+a:link {color: #EEE; }
+a:active {color: #EEE; }
+a:visited {color: #EEE; }
+a:hover {color: #EEE; }
+

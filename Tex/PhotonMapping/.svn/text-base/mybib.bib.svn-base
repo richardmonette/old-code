@@ -1,0 +1,55 @@
+@article{nicodemus77,
+    author  = "F. E. Nicodemus and J. C. Richmond and J. J. Hsia and I. W. Ginsberg and T. Limperis",
+    title   = "Geometric considerations and nomenclature for reflectance",
+    year    = "1977",
+}
+
+@article{arvo90,
+    author  = "James Arvo and David B. Kirk",
+    title   = "Particle Transport and Image Synthesis",
+    year    = "1990",
+}
+
+@article{bentley75,
+    author  = "Jon L. Bentley",
+    title   = "Multidimensional binary search trees used for associative searching",
+    year    = "1975",
+}
+
+@article{bentleyJuly79,
+    author  = "Jon L. Bentley",
+    title   = "Multidimensional binary search trees in database applications",
+    year    = "1975",
+}
+
+@article{bentley79,
+    author  = "Jon L. Bentley",
+    title   = "Datastructures for range searching",
+    year    = "1975",
+}
+
+@article{christensen00,
+    author  = "Per H. Christensen",
+    title   = "Faster photon map global illumination",
+    year    = "2000",
+	journal = "Journal of Graphics Tools 4(3):1-10",
+}
+
+@article{ward88,
+    author  = "Gregory J. Ward, Fancis M. Rubenstein and Robert D. Clear",
+    title   = "A Ray Tracing Solution for Diffuse Interreflection",
+    year    = "1998",
+	journal = "In Proceedings of SIGGRAPH, pages 85-92",
+}
+
+@article{wikiBVH,
+    author  = "Wikimedia Foundation",
+    title   = "Example of bounding volume hierarchy",
+	journal = "\url{http://en.wikipedia.org/wiki/File:Example_of_bounding_volume_hierarchy.JPG}",
+}
+
+@article{driscoll,
+    author  = "R. Driscoll",
+    title   = "Irradiance Caching: Part 1",
+	journal = "\url{http://www.rorydriscoll.com/2009/01/18/irradiance-caching-part-1/}",
+}

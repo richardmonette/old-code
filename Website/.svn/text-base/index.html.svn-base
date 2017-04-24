@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Computer Graphics - Richard Monette - Carleton University</title>
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+	
+	<!-- Import fancy-type plugin for the sample page. -->
+	<link rel="stylesheet" href="blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+
+	
+	<script type="text/javascript" src="crossfade.js"></script>
+	
+	<style type="text/css">
+		#gallery { position: relative; width:512px; height:512px; margin:0; padding:0; }
+		#gallery li { display: block; }
+	</style>
+
+</head>
+<body>
+
+	<div class="container">
+		<br>
+		<h1>Through the Digital Lens</h1>
+
+		<hr>
+		<h4 class="alt">The computer graphics work of Richard Monette</h4>
+		<hr>
+	</div>
+	
+	<div class="container">	
+		<div class="span-8 colborder" style="text-align:center;">
+			<span class="alt"><a href="http://www.flickr.com/photos/89356075@N00/">Flickr</a></span>
+		</div>
+		<div class="span-7 colborder"  style="text-align:center;">
+			<span class="alt"><a href="#">Curriculum Vitae</a></span>
+		</div>
+		<div class="span-7 last"  style="text-align:center;">
+			<span class="alt"><a href="mailto:richard dot monette at gmail dot com">Contact</a></span>
+		</div>
+	</div>
+	
+	<br>
+
+	<div class="container">
+		
+		<div class="span-13 prepend-1 colborder">	
+			<img src="images/cornell.png" alt="" width="512" height="512" />
+		</div>
+
+		<div class="span-9 last">	
+
+			<h3>Hello <span class="alt">World!</span></h3>
+
+			<p>
+				I am Richard Monette, a computer graphics programmer/student currently working on my <a href="http://www.carleton.ca/calendars/grad/current/programs/informationandysystemsscience_m.html">
+				Master's of Science</a> (Information System Science) at Carleton University under the supervisor of 
+				<a href="http://iv.csit.carleton.ca/~awhitehe/"> Dr. Anthony Whitehead</a>.
+			</p>
+			
+			<p>
+				Prior to starting my Master's I was employed as a game developer at <a href="http://www.fuelindustries.com/">Fuel Industries</a> in Ottawa, Canada.
+				I hold  Bachelor's of Information Technology (Interactive Multimedia and Design specialization) with Distinction from Carleton University.
+			</p>
+			
+			<h3>Areas of <span class="alt">Interest</span></h3>
+					
+			<ul>
+				<li>Photon Mapping<br><br>
+				Using the photon mapping algorithm to produce high quality, consistent and physically plausible images in 
+				practical render times
+				<a href="photonmapping.html">more</a></li>
+				
+				<br>
+			
+				<li>Stochastic Path Tracing / Distribution Ray Tracing<br><br>
+				Using the standard, unbiased Monte Carlo integration techniques
+				<a href="raytracing.html">more</a></li>
+				
+				<br>
+				
+				<li>Real-time Graphics via Programmable Shaders<br><br>
+				Using HLSL/GLSL in the Direct3D and OpenGL pipelines to create shader effects for real-time 3D content such as
+				games and visualizations. 
+				<a href="realtime.html">more</a></li>
+			</ul>
+			
+			
+			
+		</div>
+
+	</div>
+	
+	<br>
+
+	<div class="container">
+	
+		<hr>
+	
+		<div class="span-8 colborder">
+			<h6>Projects, Productions and Work</h6><br>
+			<ul>
+				<li><a href="glasshouse.html">'Glasshouse', first person adventure game written in XNA/HLSL</a></li>
+				<li><a href="tonemapping.html">Implementation of a few tone mapping operators</a></li>
+				<li><a href="software_renderer.html">Software Rendering (CPU only transform, lighting, rasterization</a></li>
+				<li><a href="flash_rasterization.html">Rasterization routines in Adobe Flash player using Alchemy (C++ -> AS3)</a></li>
+				<li><a href="opengl_engine.html">OpenGL based game engine (based on Quake3 .bsp levels)</a></li>
+			</ul>
+		</div>
+		<div class="span-7 colborder">
+			<h6>Presentation, PDFs and Notes</h6><br>
+			<img src="images/pdf.png" width="32" height="32" border="0">
+			<a href="Tone_Mapping.pdf">
+				Short slide deck on some tone mapping operators ~5mbs
+			</a>
+			
+			<br><br>
+			
+			<img src="images/pdf.png" width="32" height="32" border="0">
+			<a href="GIRT_Presentation_RMonette.pdf">
+				Short slide deck on a global illumination ray tracer I am working
+				on. ~5mbs
+			</a>
+			
+			<br><br>
+			
+			<a href="fitc_2010.html">FITC 2010 Presentation</a>
+		</div>
+		<div class="span-7 last">
+			<h6>Friends, Links and Misc.</h6><br>
+			<p>
+				<a href="selected_bibliography.html">Selected Bibliography</a> 
+				<span class="alt">(books I've read and I think you would enjoy reading too)</span>
+			</p>
+		</div>
+	</div>
+	
+	<div class="container">
+		<hr>
+		<p class="alt">Computer Graphics - Richard Monette - Carleton University</p>
+		<hr>
+
+		<p><a href="http://validator.w3.org/check?uri=referer">
+		<img src="images/valid.png" alt="Valid HTML 4.01 Strict" height="31" width="88" class="top"></a></p>
+	</div>
+
+</body>
+</html>

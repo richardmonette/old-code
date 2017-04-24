@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/224/trunk/HelloCUDA/HelloCUDA/Release
+END
+HelloCUDA.exe.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/203/trunk/HelloCUDA/HelloCUDA/Release/HelloCUDA.exe.intermediate.manifest
+END
+HelloCUDA.cu.obj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/224/trunk/HelloCUDA/HelloCUDA/Release/HelloCUDA.cu.obj
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/224/trunk/HelloCUDA/HelloCUDA/Release/mt.dep
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/224/trunk/HelloCUDA/HelloCUDA/Release/BuildLog.htm
+END

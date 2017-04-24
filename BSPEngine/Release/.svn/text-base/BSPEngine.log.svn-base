@@ -1,0 +1,148 @@
+﻿Build started 4/19/2010 4:07:46 AM.
+     1>Project "C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\BSPEngine\BSPEngine.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Release\BSPEngine.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Release\BSPEngine.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.3\SDKs\NxCharacter\src" /I"C:\Program Files\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.3\SDKs\NxCharacter\include" /I"C:\Program Files\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.3\Samples\SampleCommonCode\src" /I"C:\Program Files\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.3\Tools\NxuStream2" /I"C:\Program Files\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.3\SDKs\Cooking\include" /I"C:\Program Files\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.3\SDKs\PhysXLoader\include" /I"C:\Program Files\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.3\SDKs\Foundation\include" /I"C:\Program Files\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.3\SDKs\Physics\include" /I"C:\Documents and Settings\Administrator\Desktop\glew-1.5.2-win32\glew-1.5.2\include\GL" /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release/" /Fd".\Release/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Entity.cpp EntityManager.cpp Flythrough.cpp Quake3Bsp.cpp Skybox.cpp Sound.cpp TextShader.cpp Water.cpp DefaultShader.cpp Shader.cpp SkyboxShader.cpp WaterShader.cpp Physics\cooking.cpp Physics\PhysicsManager.cpp Physics\Stream.cpp Camera.cpp Frustum.cpp Image.cpp Main.cpp Mat4x4.cpp Player.cpp
+         Entity.cpp
+     1>Entity.cpp(83): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+         EntityManager.cpp
+     1>EntityManager.cpp(31): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>EntityManager.cpp(41): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>EntityManager.cpp(42): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>EntityManager.cpp(43): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>EntityManager.cpp(94): warning C4018: '<' : signed/unsigned mismatch
+     1>EntityManager.cpp(129): warning C4018: '<' : signed/unsigned mismatch
+     1>EntityManager.cpp(142): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>EntityManager.cpp(142): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>EntityManager.cpp(142): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>EntityManager.cpp(150): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>EntityManager.cpp(153): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>EntityManager.cpp(157): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(246) : see declaration of 'stricmp'
+     1>EntityManager.cpp(161): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(246) : see declaration of 'stricmp'
+     1>EntityManager.cpp(165): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(246) : see declaration of 'stricmp'
+     1>EntityManager.cpp(169): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(246) : see declaration of 'stricmp'
+     1>EntityManager.cpp(173): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(246) : see declaration of 'stricmp'
+         Flythrough.cpp
+     1>Flythrough.cpp(43): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Flythrough.cpp(44): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Flythrough.cpp(45): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Flythrough.cpp(49): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Flythrough.cpp(50): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Flythrough.cpp(51): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Flythrough.cpp(69): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Flythrough.cpp(70): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Flythrough.cpp(72): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Flythrough.cpp(73): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Flythrough.cpp(75): warning C4305: '+=' : truncation from 'double' to 'float'
+         Quake3Bsp.cpp
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>Quake3Bsp.cpp(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Quake3Bsp.cpp(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+         Skybox.cpp
+         Sound.cpp
+     1>Sound.cpp(85): warning C4996: 'alutLoadWAVFile': was declared deprecated
+                 c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\al/alut.h(113) : see declaration of 'alutLoadWAVFile'
+     1>Sound.cpp(87): warning C4996: 'alutUnloadWAV': was declared deprecated
+                 c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\al/alut.h(116) : see declaration of 'alutUnloadWAV'
+     1>Sound.cpp(89): warning C4996: 'alutLoadWAVFile': was declared deprecated
+                 c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\al/alut.h(113) : see declaration of 'alutLoadWAVFile'
+     1>Sound.cpp(91): warning C4996: 'alutUnloadWAV': was declared deprecated
+                 c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\al/alut.h(116) : see declaration of 'alutUnloadWAV'
+     1>Sound.cpp(93): warning C4996: 'alutLoadWAVFile': was declared deprecated
+                 c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\al/alut.h(113) : see declaration of 'alutLoadWAVFile'
+     1>Sound.cpp(95): warning C4996: 'alutUnloadWAV': was declared deprecated
+                 c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\al/alut.h(116) : see declaration of 'alutUnloadWAV'
+         TextShader.cpp
+         Water.cpp
+     1>Water.cpp(47): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>Water.cpp(56): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>Water.cpp(56): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>Water.cpp(56): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>Water.cpp(56): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>Water.cpp(59): warning C4305: '+=' : truncation from 'double' to 'float'
+         DefaultShader.cpp
+         Shader.cpp
+         SkyboxShader.cpp
+         WaterShader.cpp
+         cooking.cpp
+         PhysicsManager.cpp
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\physics\../Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\physics\../Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\physics\../Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>Physics\PhysicsManager.cpp(34): warning C4305: 'argument' : truncation from 'double' to 'NxReal'
+     1>Physics\PhysicsManager.cpp(41): warning C4305: 'argument' : truncation from 'double' to 'NxReal'
+     1>Physics\PhysicsManager.cpp(257): warning C4305: '=' : truncation from 'double' to 'NxF32'
+         Stream.cpp
+     1>Physics\Stream.cpp(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+         Camera.cpp
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>Camera.cpp(52): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+         Frustum.cpp
+         Image.cpp
+     1>Image.cpp(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+         Main.cpp
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>c:\documents and settings\administrator\my documents\visual studio 2008\projects\bspengine\Camera.h(27): warning C4244: 'argument' : conversion from 'Extended' to 'float', possible loss of data
+     1>Main.cpp(356): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Main.cpp(357): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>Main.cpp(367): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Main.cpp(367): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Main.cpp(428): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Main.cpp(429): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Main.cpp(434): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Main.cpp(435): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         Mat4x4.cpp
+         Generating Code...
+         Compiling...
+         Player.cpp
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\BSPEngine\Release\BSPEngine.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.3\SDKs\lib\Win32" /LIBPATH:"C:\Documents and Settings\Administrator\Desktop\glew-1.5.2-win32\glew-1.5.2\lib" glew32.lib PhysXLoader.lib PhysXCooking.lib PhysXCore.lib NxCharacter.lib freeglut.lib jpeg.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib alut.lib OpenAL32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc.lib /MANIFEST /ManifestFile:"Release\BSPEngine.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\BSPEngine\Release\BSPEngine.lib" /MACHINE:X86 .\Release/Entity.obj
+         .\Release/EntityManager.obj
+         .\Release/Flythrough.obj
+         .\Release/Quake3Bsp.obj
+         .\Release/Skybox.obj
+         .\Release/Sound.obj
+         .\Release/TextShader.obj
+         .\Release/Water.obj
+         .\Release/DefaultShader.obj
+         .\Release/Shader.obj
+         .\Release/SkyboxShader.obj
+         .\Release/WaterShader.obj
+         .\Release/cooking.obj
+         .\Release/PhysicsManager.obj
+         .\Release/Stream.obj
+         .\Release/Camera.obj
+         .\Release/Frustum.obj
+         .\Release/Image.obj
+         .\Release/Main.obj
+         .\Release/Mat4x4.obj
+         .\Release/Player.obj
+         BSPEngine.vcxproj -> C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\BSPEngine\Release\BSPEngine.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\BSPEngine\Release\BSPEngine.exe;#1" /manifest Release\BSPEngine.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\BSPEngine.unsuccessfulbuild".
+         Touching "Release\BSPEngine.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\BSPEngine\BSPEngine.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.31

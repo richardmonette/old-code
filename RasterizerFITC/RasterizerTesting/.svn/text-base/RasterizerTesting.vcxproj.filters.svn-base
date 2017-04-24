@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Q3">
+      <UniqueIdentifier>{127bd9b6-ed58-46f8-b585-33d993f377a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Q3\Q3BSP.cpp">
+      <Filter>Q3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q3\Q3Frustum.cpp">
+      <Filter>Q3</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="Flythrough.cpp" />
+    <ClCompile Include="Math3D.cpp" />
+    <ClCompile Include="RasterizerTesting.cpp" />
+    <ClCompile Include="Renderer.cpp" />
+    <ClCompile Include="Timer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Q3\Q3BSP.h">
+      <Filter>Q3</Filter>
+    </ClInclude>
+    <ClInclude Include="Q3\Q3Frustum.h">
+      <Filter>Q3</Filter>
+    </ClInclude>
+    <ClInclude Include="Q3\Q3Types.h">
+      <Filter>Q3</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="FastCast.h" />
+    <ClInclude Include="Flythrough.h" />
+    <ClInclude Include="Math3D.h" />
+    <ClInclude Include="RasterizerTesting.h" />
+    <ClInclude Include="Renderer.h" />
+    <ClInclude Include="Timer.h" />
+  </ItemGroup>
+</Project>

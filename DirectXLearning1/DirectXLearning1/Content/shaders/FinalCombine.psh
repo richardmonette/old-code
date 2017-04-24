@@ -1,0 +1,47 @@
+texture colorMap;
+texture lightMap;
+
+sampler colorSampler = sampler_state
+{
+    Texture = (colorMap);
+    AddressU = CLAMP;
+    AddressV = CLAMP;
+    MagFilter = LINEAR;
+    MinFilter = LINEAR;
+    Mipfilter = LINEAR;
+};
+
+sampler lightSampler = sampler_state
+{
+    Texture = (lightMap);
+    AddressU = CLAMP;
+    AddressV = CLAMP;
+    MagFilter = LINEAR;
+    MinFilter = LINEAR;
+    Mipfilter = LINEAR;
+};
+
+struct VertexShaderInput
+{
+    float3 Position : POSITION0;
+    float2 TexCoord : TEXCOORD0;
+};
+
+struct VertexShaderOutput
+{
+    float4 Position : POSITION0;
+    float2 TexCoord : TEXCOORD0;
+};
+
+float4 main(VertexShaderOutput input) : COLOR0
+{
+    float3 diffuseColor = tex2D(colorSampler,input.TexCoord).rgb;
+    float4 light = tex2D(lightSampler,input.TexCoord);
+    float3 diffuseLight = light.rgb;
+    float specularLight = 0;//light.a;
+    
+    float4 outColor = float4((diffuseColor * diffuseLight + specularLight),1);
+	
+    return outColor;
+}
+

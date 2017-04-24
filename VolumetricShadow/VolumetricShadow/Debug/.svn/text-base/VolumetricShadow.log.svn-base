@@ -1,0 +1,70 @@
+﻿Build started 12/05/2011 2:15:31 PM.
+     1>Project "C:\Users\Richard\Documents\Visual Studio 2010\VolumetricShadow\VolumetricShadow\VolumetricShadow.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\VolumetricShadow.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Richard\Downloads\pez\lib\openctm /IC:\Users\Richard\Downloads\pez\lib\vectormath\cpp /IC:\Users\Richard\Downloads\pez\lib\glew /IC:\Users\Richard\Downloads\pez\lib\glsw /IC:\Users\Richard\Downloads\pez\lib\libpez /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Octree.cpp
+         Octree.cpp
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\octree.cpp(177): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         Main.cpp
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\main.cpp(147): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\main.cpp(147): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\main.cpp(240): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\main.cpp(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\main.cpp(366): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\main.cpp(367): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\main.cpp(368): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\main.cpp(369): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\documents\visual studio 2010\volumetricshadow\volumetricshadow\main.cpp(370): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Richard\Documents\Visual Studio 2010\VolumetricShadow\Debug\VolumetricShadow.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Richard\Documents\Libs\glew-1.6.0\lib" /LIBPATH:C:\Users\Richard\Downloads\pez\build\Debug PezEcosystem.lib opengl32.lib glew32s.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\VolumetricShadow.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Richard\Documents\Visual Studio 2010\VolumetricShadow\Debug\VolumetricShadow.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Richard\Documents\Visual Studio 2010\VolumetricShadow\Debug\VolumetricShadow.lib" /MACHINE:X86 Debug\VolumetricShadow.exe.embed.manifest.res
+         Debug\Main.obj
+         Debug\Octree.obj
+         Debug\RenderTexture.obj
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix3fv imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewUniform3f imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewUniform1f imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewBindAttribLocation imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewProgramParameteriEXT imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+     1>Main.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+     1>RenderTexture.obj : warning LNK4049: locally defined symbol ___glewCheckFramebufferStatusEXT imported
+     1>RenderTexture.obj : warning LNK4049: locally defined symbol ___glewFramebufferTexture2DEXT imported
+     1>RenderTexture.obj : warning LNK4049: locally defined symbol ___glewBindFramebufferEXT imported
+     1>RenderTexture.obj : warning LNK4049: locally defined symbol ___glewGenFramebuffersEXT imported
+     1>RenderTexture.obj : warning LNK4049: locally defined symbol ___glewDeleteFramebuffersEXT imported
+     1>RenderTexture.obj : warning LNK4049: locally defined symbol ___glewActiveTextureARB imported
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\VolumetricShadow.exe.embed.manifest" /manifest Debug\VolumetricShadow.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         VolumetricShadow.vcxproj -> C:\Users\Richard\Documents\Visual Studio 2010\VolumetricShadow\Debug\VolumetricShadow.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\VolumetricShadow.unsuccessfulbuild".
+         Touching "Debug\VolumetricShadow.lastbuildstate".
+     1>Done Building Project "C:\Users\Richard\Documents\Visual Studio 2010\VolumetricShadow\VolumetricShadow\VolumetricShadow.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.16

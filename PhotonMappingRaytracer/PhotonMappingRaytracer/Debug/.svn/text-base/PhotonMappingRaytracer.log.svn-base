@@ -1,0 +1,93 @@
+﻿Build started 3/21/2011 3:12:41 PM.
+     1>Project "C:\Users\Richard\Desktop\PhotonMappingRaytracer\PhotonMappingRaytracer\PhotonMappingRaytracer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PhotonMappingRaytracer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Richard\Documents\Libs\sfml2\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PhotonMap.cpp PhotonMappingRaytracer.cpp Renderer.cpp Scene.cpp
+         Scene.cpp
+         Renderer.cpp
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\util.h(44): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\util.h(53): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\renderer.cpp(153): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\renderer.cpp(242): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\renderer.cpp(246): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         PhotonMappingRaytracer.cpp
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\util.h(44): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\util.h(53): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\workgenerator.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\workgenerator.h(19): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(66): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(355): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(356): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(358): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(360): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(370): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(401): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(401): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(416): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(422): warning C4244: 'argument' : conversion from 'const float' to 'sf::Uint8', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(422): warning C4244: 'argument' : conversion from 'const float' to 'sf::Uint8', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(422): warning C4244: 'argument' : conversion from 'const float' to 'sf::Uint8', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(422): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(422): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmappingraytracer.cpp(496): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         PhotonMap.cpp
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmap.cpp(44): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmap.cpp(45): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmap.cpp(46): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmap.cpp(47): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmap.cpp(128): warning C4244: 'initializing' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\photonmap.cpp(111): warning C4101: 'pdir' : unreferenced local variable
+         Generating Code...
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Richard\Desktop\PhotonMappingRaytracer\Debug\PhotonMappingRaytracer.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Richard\Documents\Libs\sfml2\lib\vc2008 "sfml-main.lib" "sfml-graphics-s-d.lib" "sfml-system-s-d.lib" "sfml-window-s-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PhotonMappingRaytracer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Richard\Desktop\PhotonMappingRaytracer\Debug\PhotonMappingRaytracer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Richard\Desktop\PhotonMappingRaytracer\Debug\PhotonMappingRaytracer.lib" /MACHINE:X86 Debug\PhotonMappingRaytracer.exe.embed.manifest.res
+         Debug\BVH.obj
+         Debug\DielectricMaterial.obj
+         Debug\DiffSpecMaterial.obj
+         Debug\DiffuseMaterial.obj
+         Debug\IrradianceMap.obj
+         Debug\Renderer.obj
+         Debug\DynSphere.obj
+         Debug\Image.obj
+         Debug\ImageTexture.obj
+         Debug\Instance.obj
+         Debug\IrradianceCache.obj
+         Debug\LuminaireMaterial.obj
+         Debug\MarbleTexture.obj
+         Debug\Matrix.obj
+         Debug\MeshTriangle.obj
+         Debug\MirrorMaterial.obj
+         Debug\NoiseTexture.obj
+         Debug\ObjModel.obj
+         Debug\Octree.obj
+         Debug\ONB.obj
+         Debug\Parallelogram.obj
+         Debug\PhongMetalMaterial.obj
+         Debug\PhotonMap.obj
+         Debug\PhotonMappingRaytracer.obj
+         Debug\RandomMwc.obj
+         Debug\Sample1.obj
+         Debug\Sample2.obj
+         Debug\Scene.obj
+         Debug\SimpleTexture.obj
+         Debug\SolidNoise.obj
+         Debug\Sphere.obj
+         Debug\Triangle.obj
+         Debug\WorkGenerator.obj
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\PhotonMappingRaytracer.exe.embed.manifest" /manifest Debug\PhotonMappingRaytracer.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         PhotonMappingRaytracer.vcxproj -> C:\Users\Richard\Desktop\PhotonMappingRaytracer\Debug\PhotonMappingRaytracer.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\PhotonMappingRaytracer.unsuccessfulbuild".
+         Touching "Debug\PhotonMappingRaytracer.lastbuildstate".
+     1>Done Building Project "C:\Users\Richard\Desktop\PhotonMappingRaytracer\PhotonMappingRaytracer\PhotonMappingRaytracer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.71

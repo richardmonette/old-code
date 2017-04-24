@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/99/trunk/BSPEngine
+END
+Sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/96/trunk/BSPEngine/Sound.cpp
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/93/trunk/BSPEngine/Main.h
+END
+BSPEngine.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/90/trunk/BSPEngine/BSPEngine.ncb
+END
+Vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/89/trunk/BSPEngine/Vector3.h
+END
+freeglut_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/89/trunk/BSPEngine/freeglut_std.h
+END
+libc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/58/trunk/BSPEngine/libc.lib
+END
+Flythrough.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/93/trunk/BSPEngine/Flythrough.h
+END
+freeglut_ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/89/trunk/BSPEngine/freeglut_ext.h
+END
+shaderlog.log
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/81/trunk/BSPEngine/shaderlog.log
+END
+Init.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/85/trunk/BSPEngine/Init.h
+END
+SkyboxShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/89/trunk/BSPEngine/SkyboxShader.h
+END
+BSPEngine.suo.old
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/99/trunk/BSPEngine/BSPEngine.suo.old
+END
+Entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/93/trunk/BSPEngine/Entity.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/58/trunk/BSPEngine/jpeglib.h
+END
+Skybox.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/89/trunk/BSPEngine/Skybox.h
+END
+entitieslog.log
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/99/trunk/BSPEngine/entitieslog.log
+END
+Mat4x4.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/79/trunk/BSPEngine/Mat4x4.h
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/96/trunk/BSPEngine/Camera.cpp
+END
+alut.lib
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/99/trunk/BSPEngine/alut.lib
+END
+Flythrough.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/93/trunk/BSPEngine/Flythrough.cpp
+END
+Sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/96/trunk/BSPEngine/Sound.h
+END
+BSPEngine.suo
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/99/trunk/BSPEngine/BSPEngine.suo
+END
+Quake3Bsp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/99/trunk/BSPEngine/Quake3Bsp.cpp
+END
+Init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/85/trunk/BSPEngine/Init.cpp
+END
+glut32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/89/trunk/BSPEngine/glut32.lib
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/85/trunk/BSPEngine/types.h
+END
+Frustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/80/trunk/BSPEngine/Frustum.h
+END
+WaterShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/99/trunk/BSPEngine/WaterShader.h
+END
+Skybox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/90/trunk/BSPEngine/Skybox.cpp
+END
+DefaultShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/99/trunk/BSPEngine/DefaultShader.h
+END
+Mat4x4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/79/trunk/BSPEngine/Mat4x4.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/trunk/BSPEngine/Image.cpp
+END
+BSPEngine.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/99/trunk/BSPEngine/BSPEngine.vcxproj
+END
+Vector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/89/trunk/BSPEngine/Vector2.h
+END
+BSPEngine.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/99/trunk/BSPEngine/BSPEngine.vcxproj.filters
+END
+Vector4.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/89/trunk/BSPEngine/Vector4.h
+END
+BSPEngine.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/94/trunk/BSPEngine/BSPEngine.vcproj
+END
+Player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/97/trunk/BSPEngine/Player.cpp
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/96/trunk/BSPEngine/Camera.h
+END
+BSPEngine.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/99/trunk/BSPEngine/BSPEngine.vcxproj.user
+END
+Quake3Bsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/99/trunk/BSPEngine/Quake3Bsp.h
+END
+Frustum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/85/trunk/BSPEngine/Frustum.cpp
+END
+Shader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/93/trunk/BSPEngine/Shader.cpp
+END
+flypathin.path
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/93/trunk/BSPEngine/flypathin.path
+END
+WaterShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/99/trunk/BSPEngine/WaterShader.cpp
+END
+DefaultShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/99/trunk/BSPEngine/DefaultShader.cpp
+END
+EntityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/93/trunk/BSPEngine/EntityManager.h
+END
+BSPEngine.vcproj.EXPERIENCE.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/94/trunk/BSPEngine/BSPEngine.vcproj.EXPERIENCE.Administrator.user
+END
+TextShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/93/trunk/BSPEngine/TextShader.h
+END
+TextRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/58/trunk/BSPEngine/TextRenderer.h
+END
+Water.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/trunk/BSPEngine/Water.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/99/trunk/BSPEngine/Main.cpp
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/85/trunk/BSPEngine/Image.h
+END
+EngineDemoVideo.wmv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/99/trunk/BSPEngine/EngineDemoVideo.wmv
+END
+BSPEngine.sln.old
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/99/trunk/BSPEngine/BSPEngine.sln.old
+END
+freeglut.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/89/trunk/BSPEngine/freeglut.lib
+END
+Player.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/58/trunk/BSPEngine/Player.h
+END
+Config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/96/trunk/BSPEngine/Config.ini
+END
+BSPEngine.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/99/trunk/BSPEngine/BSPEngine.sdf
+END
+SkyboxShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/89/trunk/BSPEngine/SkyboxShader.cpp
+END
+OpenAL32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/99/trunk/BSPEngine/OpenAL32.lib
+END
+EntityManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/93/trunk/BSPEngine/EntityManager.cpp
+END
+jpeg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/58/trunk/BSPEngine/jpeg.lib
+END
+flypathout.path
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/93/trunk/BSPEngine/flypathout.path
+END
+Shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/84/trunk/BSPEngine/Shader.h
+END
+TextRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/85/trunk/BSPEngine/TextRenderer.cpp
+END
+TextShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/93/trunk/BSPEngine/TextShader.cpp
+END
+Entity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/93/trunk/BSPEngine/Entity.cpp
+END
+glut.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/89/trunk/BSPEngine/glut.h
+END
+freeglut.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/89/trunk/BSPEngine/freeglut.h
+END
+BSPEngine.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/94/trunk/BSPEngine/BSPEngine.sln
+END
+Water.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/trunk/BSPEngine/Water.h
+END

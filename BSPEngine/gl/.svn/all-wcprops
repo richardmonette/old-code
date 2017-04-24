@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/89/trunk/BSPEngine/gl
+END
+glxew.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/89/trunk/BSPEngine/gl/glxew.h
+END
+glew.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/89/trunk/BSPEngine/gl/glew.h
+END
+wglew.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/89/trunk/BSPEngine/gl/wglew.h
+END

@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{arvo90}
+James Arvo and David~B. Kirk.
+\newblock Particle transport and image synthesis.
+\newblock 1990.
+
+\bibitem{bentley79}
+Jon~L. Bentley.
+\newblock Datastructures for range searching.
+\newblock 1975.
+
+\bibitem{bentleyJuly79}
+Jon~L. Bentley.
+\newblock Multidimensional binary search trees in database applications.
+\newblock 1975.
+
+\bibitem{bentley75}
+Jon~L. Bentley.
+\newblock Multidimensional binary search trees used for associative searching.
+\newblock 1975.
+
+\bibitem{christensen00}
+Per~H. Christensen.
+\newblock Faster photon map global illumination.
+\newblock {\em Journal of Graphics Tools 4(3):1-10}, 2000.
+
+\bibitem{driscoll}
+R.~Driscoll.
+\newblock Irradiance caching: Part 1.
+\newblock {\em
+  \url{http://www.rorydriscoll.com/2009/01/18/irradiance-caching-part-1/}}.
+
+\bibitem{wikiBVH}
+Wikimedia Foundation.
+\newblock Example of bounding volume hierarchy.
+\newblock {\em
+  \url{http://en.wikipedia.org/wiki/File:Example_of_bounding_volume_hierarchy.%
+JPG}}.
+
+\bibitem{ward88}
+Fancis M.~Rubenstein Gregory J.~Ward and Robert~D. Clear.
+\newblock A ray tracing solution for diffuse interreflection.
+\newblock {\em In Proceedings of SIGGRAPH, pages 85-92}, 1998.
+
+\bibitem{nicodemus77}
+F.~E. Nicodemus, J.~C. Richmond, J.~J. Hsia, I.~W. Ginsberg, and T.~Limperis.
+\newblock Geometric considerations and nomenclature for reflectance.
+\newblock 1977.
+
+\end{thebibliography}

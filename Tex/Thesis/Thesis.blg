@@ -1,0 +1,11 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
+The style file: plain.bst
+Database file #1: Thesis.bib
+Warning--I'm ignoring Arvo93transferequations's extra "title" field
+--line 20 of file Thesis.bib
+Too many commas in name 1 of "Madill, J., Hahn, E. and B. Houston" for entry fury2010
+while executing---line 1049 of file plain.bst
+Warning--empty publisher in Arvo93transferequations
+Too many commas in name 1 of "Madill, J., Hahn, E. and B. Houston" for entry fury2010
+while executing---line 1090 of file plain.bst
+(There were 2 error messages)

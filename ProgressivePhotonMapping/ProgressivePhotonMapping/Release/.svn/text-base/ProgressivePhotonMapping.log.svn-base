@@ -1,0 +1,92 @@
+﻿Build started 9/28/2010 1:30:36 PM.
+     1>Project "C:\Users\Richard\Documents\Visual Studio 2010\Projects\ProgressivePhotonMapping\ProgressivePhotonMapping\ProgressivePhotonMapping.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\ProgressivePhotonMapping.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Richard\Documents\Libs\sfml2\include\ /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /arch:SSE2 /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ProgressivePhotonMapping.cpp
+         ProgressivePhotonMapping.cpp
+     1>ProgressivePhotonMapping.cpp(24): warning C4005: 'PI' : macro redefinition
+                 c:\users\richard\documents\visual studio 2010\projects\progressivephotonmapping\progressivephotonmapping\PhotonMap.h(15) : see previous definition of 'PI'
+     1>ProgressivePhotonMapping.cpp(91): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>ProgressivePhotonMapping.cpp(95): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(95): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(95): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(96): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(96): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(112): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(112): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(112): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(113): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(113): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(113): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(114): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(114): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(114): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(212): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>ProgressivePhotonMapping.cpp(282): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(282): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(282): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(282): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(282): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(295): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(295): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(299): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(300): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(426): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>ProgressivePhotonMapping.cpp(442): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(442): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(442): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(442): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>ProgressivePhotonMapping.cpp(442): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>ProgressivePhotonMapping.cpp(487): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(487): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(487): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(487): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(487): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(502): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(517): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(517): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(517): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(517): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(517): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(531): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(531): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(574): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(574): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(626): warning C4244: 'initializing' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(636): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(639): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(655): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(656): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(656): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>ProgressivePhotonMapping.cpp(656): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(658): warning C4244: '=' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>ProgressivePhotonMapping.cpp(661): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(664): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(664): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(703): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(703): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>ProgressivePhotonMapping.cpp(718): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>ProgressivePhotonMapping.cpp(718): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Richard\Documents\Visual Studio 2010\Projects\ProgressivePhotonMapping\Release\ProgressivePhotonMapping.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\Richard\Documents\Libs\sfml2\lib\vc2008 "sfml-main.lib" "sfml-window-s.lib" "sfml-graphics-s.lib" "sfml-system-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ProgressivePhotonMapping.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Richard\Documents\Visual Studio 2010\Projects\ProgressivePhotonMapping\Release\ProgressivePhotonMapping.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Richard\Documents\Visual Studio 2010\Projects\ProgressivePhotonMapping\Release\ProgressivePhotonMapping.lib" /MACHINE:X86 Release\BVH.obj
+         Release\ObjModel.obj
+         Release\ONB.obj
+         Release\PhotonMap.obj
+         Release\ProgressivePhotonMapping.obj
+         Release\Scene.obj
+         Release\Triangle.obj
+         Release\VolumePhotonMap.obj
+         Generating code
+         Finished generating code
+         ProgressivePhotonMapping.vcxproj -> C:\Users\Richard\Documents\Visual Studio 2010\Projects\ProgressivePhotonMapping\Release\ProgressivePhotonMapping.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Richard\Documents\Visual Studio 2010\Projects\ProgressivePhotonMapping\Release\ProgressivePhotonMapping.exe;#1" /manifest Release\ProgressivePhotonMapping.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\ProgressivePhotonMapping.unsuccessfulbuild".
+         Touching "Release\ProgressivePhotonMapping.lastbuildstate".
+     1>Done Building Project "C:\Users\Richard\Documents\Visual Studio 2010\Projects\ProgressivePhotonMapping\ProgressivePhotonMapping\ProgressivePhotonMapping.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.78

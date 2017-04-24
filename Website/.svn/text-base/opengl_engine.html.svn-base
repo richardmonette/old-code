@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Computer Graphics - Richard Monette - Carleton University</title>
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+	<!-- Import fancy-type plugin for the sample page. -->
+	<link rel="stylesheet" href="blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+</head>
+
+<body>
+
+	<div class="container">
+		<br>
+		<h1>Through the Digital Lens</h1>
+
+		<hr>
+		<h3 class="alt">The computer graphics work of Richard Monette</h3>
+		<hr>
+	</div>
+	
+	<div class="container">	
+		<div class="span-12 colborder" style="text-align:center;">
+			<span class="alt"><a href="index.html">Home</a></span>
+		</div>
+		<div class="span-11 last"  style="text-align:center;">
+			<span class="alt"><a href="mailto:richard dot monette at gmail dot com">Contact</a></span>
+		</div>
+	</div>
+	
+	<br>
+
+	<div class="container">
+				
+		<div class="span-13 prepend-1 colborder">	
+		
+			<object width="400" height="265"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=11053334&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=11053334&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="265"></embed></object>
+						
+		</div>
+
+		<div class="span-9 last">	
+
+			<h3>OpenGL <span class="alt">Game</span> Engine</h3>
+			
+			For my COMP 4002 <span class="alt">Real-time 3D Game Engines</span> class I created a game engine as my term project.
+			
+			<br><br>
+			
+			It has the following standard features:
+			
+			<br><br>
+			
+			<ul>
+				<li><a href="http://www.opengl.org/">OpenGL</a> based rendering</li>
+				<li>Nvidia <a href="http://www.nvidia.com/object/physx_new.html">PhysX</a> physics engine intergration</li>
+				<li>Loads <a href="http://graphics.cs.brown.edu/games/quake/quake3.html">Quake3 .bsp Levels</a> (created with <a href="http://en.wikipedia.org/wiki/GtkRadiant">gtkRadiant</a>)</li>
+				<li>Flythrough demo mode</li>
+				<li>GLSL shaders for water (reflection/refraction effects)</li>
+				<li>Lightmapping (using the maps from the .bsp files)</li>
+			</ul>
+			
+		</div>
+
+	</div>
+	
+	<br>
+	
+	<div class="container">
+	
+		<div align="center" class="span-12 colborder">
+			<a href="images/one.png"><img src="images/one.png" width="320" height="240"/></a>	
+			<br><br><span class="alt">Example of a scene from the demo</span><br><br>
+			<a href="images/skoybox.png"><img src="images/skybox.png" width="320" height="240"/></a>
+			<br><br><span class="alt">Skybox effects</span><br><br>
+		</div>
+		
+		<div align="center" class="span-11 last">
+			<a href="images/toppledBoxes.png"><img src="images/toppledBoxes.png" width="320" height="240"/></a>
+			<br><br><span class="alt">PhysX in action</span><br><br>
+			<a href="images/reflection.png"><img src="images/reflection.png" width="320" height="240"/></a>
+			<br><br><span class="alt">Water reflection handled with GLSL shader</span><br><br>
+		</div>
+	
+	</div>
+	
+	<br>
+	
+	<div class="container">
+		<hr>
+		<p class="alt">Computer Graphics - Richard Monette - Carleton University</p>
+		<hr>
+
+		<p><a href="http://validator.w3.org/check?uri=referer">
+		<img src="images/valid.png" alt="Valid HTML 4.01 Strict" height="31" width="88" class="top"></a></p>
+	</div>
+
+</body>
+</html>

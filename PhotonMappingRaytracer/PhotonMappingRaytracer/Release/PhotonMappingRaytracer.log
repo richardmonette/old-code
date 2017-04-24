@@ -1,0 +1,71 @@
+﻿Build started 3/22/2011 9:19:03 PM.
+     1>Project "C:\Users\Richard\Desktop\PhotonMappingRaytracer\PhotonMappingRaytracer\PhotonMappingRaytracer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\PhotonMappingRaytracer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Richard\Documents\Libs\sfml2\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PhotonMappingRaytracer.cpp
+         PhotonMappingRaytracer.cpp
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\Util.h(44): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\Util.h(53): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\WorkGenerator.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\richard\desktop\photonmappingraytracer\photonmappingraytracer\WorkGenerator.h(19): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>PhotonMappingRaytracer.cpp(66): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>PhotonMappingRaytracer.cpp(357): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>PhotonMappingRaytracer.cpp(358): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>PhotonMappingRaytracer.cpp(360): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>PhotonMappingRaytracer.cpp(362): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>PhotonMappingRaytracer.cpp(402): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>PhotonMappingRaytracer.cpp(402): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>PhotonMappingRaytracer.cpp(423): warning C4244: 'argument' : conversion from 'const float' to 'sf::Uint8', possible loss of data
+     1>PhotonMappingRaytracer.cpp(423): warning C4244: 'argument' : conversion from 'const float' to 'sf::Uint8', possible loss of data
+     1>PhotonMappingRaytracer.cpp(423): warning C4244: 'argument' : conversion from 'const float' to 'sf::Uint8', possible loss of data
+     1>PhotonMappingRaytracer.cpp(423): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>PhotonMappingRaytracer.cpp(423): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>PhotonMappingRaytracer.cpp(497): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Richard\Desktop\PhotonMappingRaytracer\Release\PhotonMappingRaytracer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\Richard\Documents\Libs\sfml2\lib\vc2008 "sfml-main.lib" "sfml-graphics-s.lib" "sfml-system-s.lib" "sfml-window-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\PhotonMappingRaytracer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Richard\Desktop\PhotonMappingRaytracer\Release\PhotonMappingRaytracer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Richard\Desktop\PhotonMappingRaytracer\Release\PhotonMappingRaytracer.lib" /MACHINE:X86 Release\BVH.obj
+         Release\DielectricMaterial.obj
+         Release\DiffSpecMaterial.obj
+         Release\DiffuseMaterial.obj
+         Release\IrradianceMap.obj
+         Release\Renderer.obj
+         Release\DynSphere.obj
+         Release\Image.obj
+         Release\ImageTexture.obj
+         Release\Instance.obj
+         Release\IrradianceCache.obj
+         Release\LuminaireMaterial.obj
+         Release\MarbleTexture.obj
+         Release\Matrix.obj
+         Release\MeshTriangle.obj
+         Release\MirrorMaterial.obj
+         Release\NoiseTexture.obj
+         Release\ObjModel.obj
+         Release\Octree.obj
+         Release\ONB.obj
+         Release\Parallelogram.obj
+         Release\PhongMetalMaterial.obj
+         Release\PhotonMap.obj
+         Release\PhotonMappingRaytracer.obj
+         Release\RandomMwc.obj
+         Release\Sample1.obj
+         Release\Sample2.obj
+         Release\Scene.obj
+         Release\SimpleTexture.obj
+         Release\SolidNoise.obj
+         Release\Sphere.obj
+         Release\Triangle.obj
+         Release\WorkGenerator.obj
+         Generating code
+         Finished generating code
+         PhotonMappingRaytracer.vcxproj -> C:\Users\Richard\Desktop\PhotonMappingRaytracer\Release\PhotonMappingRaytracer.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Richard\Desktop\PhotonMappingRaytracer\Release\PhotonMappingRaytracer.exe;#1" /manifest Release\PhotonMappingRaytracer.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\PhotonMappingRaytracer.unsuccessfulbuild".
+         Touching "Release\PhotonMappingRaytracer.lastbuildstate".
+     1>Done Building Project "C:\Users\Richard\Desktop\PhotonMappingRaytracer\PhotonMappingRaytracer\PhotonMappingRaytracer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.03

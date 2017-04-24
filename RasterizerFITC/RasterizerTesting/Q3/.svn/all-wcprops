@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/146/trunk/RasterizerFITC/RasterizerTesting/Q3
+END
+Q3Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/146/trunk/RasterizerFITC/RasterizerTesting/Q3/Q3Camera.h
+END
+Q3BSP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/146/trunk/RasterizerFITC/RasterizerTesting/Q3/Q3BSP.cpp
+END
+Q3Frustum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/146/trunk/RasterizerFITC/RasterizerTesting/Q3/Q3Frustum.cpp
+END
+Q3Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/146/trunk/RasterizerFITC/RasterizerTesting/Q3/Q3Camera.cpp
+END
+Q3Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/146/trunk/RasterizerFITC/RasterizerTesting/Q3/Q3Types.h
+END
+Q3BSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/146/trunk/RasterizerFITC/RasterizerTesting/Q3/Q3BSP.h
+END
+Q3Frustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/146/trunk/RasterizerFITC/RasterizerTesting/Q3/Q3Frustum.h
+END

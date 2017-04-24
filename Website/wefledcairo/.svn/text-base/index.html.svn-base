@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' lang='en' xml:lang='en'>
+<head>
+
+	<title>We Fled Cairo - Adult Braces</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+	<link href="page.css" rel="stylesheet" type="text/css" />
+	
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-17756932-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+
+</head>
+
+<body>
+
+	<div id="wrapper">
+
+		<div id="left_column">
+
+			<img src="cover.png" width="512" height="512"/>
+			
+			<p align="center">
+			
+				<a href="http://www.myspace.com/wefledcairo">MySpace</a> - 
+				
+				<a href="http://www.youtube.com/watch?v=lCiCWGXmn0w">Video #1</a> - 
+				
+				<a href="http://www.youtube.com/watch?v=4Ml6atiW_Jc">Video #2</a>
+			
+			</p>
+			
+			<p>We Fled Cairo is:</p>
+			
+			<p>
+				Dave Mandia (dave dot mandia at gmail dot com)<br>
+				<em>Drums, Guitar, Bass</em><br><br>
+				Richard Monette (richard dot monette at gmail dot com)<br>
+				<em>Drums, Guitar</em>
+			</p>
+
+		</div>
+
+		<div id="right_column">
+
+			<h1 style="padding-top:0px; margin-top:0px;">Adult Braces EP</h1>
+			
+			<audio src="01 One Day All Ottawa Will Be One Big Shawarma Shop.mp3" controls="controls">
+			<a href="01 One Day All Ottawa Will Be One Big Shawarma Shop.mp3">One Day All Ottawa Will Be One Big Shawarma Shop</a>
+			</audio>
+			
+			<p>One Day All Ottawa Will Be One Big Shawarma Shop</p>
+			
+			<audio src="02 Copy Constructor.mp3" controls="controls">
+			<a href="02 Copy Constructor.mp3">Copy Constructor</a>
+			</audio>
+			
+			<p>Copy Constructor</p>
+			
+			<audio src="03 Xiaofeng Strives For Excellence.mp3" controls="controls">
+			<a href="03 Xioafeng Strives For Excellence.mp3">Xioafeng Strives For Excellence</a>
+			</audio>
+			
+			<p>Xioafeng Strives For Excellence</p>
+			
+			<audio src="04 Awkward Boner.mp3" controls="controls">
+			<a href="04 Awkward Boner.mp3">Awkward Boner</a>
+			</audio>
+			
+			<p>Awkward Boner</p>
+			
+			<audio src="05 Sharks Keep Moving, Dolphins Keep Dying.mp3" controls="controls">
+			<a href="05 Sharks Keep Moving, Dolphins Keep Dying.mp3">Sharks Keep Moving, Dolphins Keep Dying</a>
+			</audio>
+			
+			<p>Sharks Keep Moving, Dolphins Keep Dying</p>
+			
+			<audio src="06 Derivative.mp3" controls="controls">
+			<a href="06 Derivative.mp3">Derivative</a>
+			</audio>
+			
+			<p>Derivative</p>
+			
+			<audio src="07 Critical Error in Execution of Shotgun Rules.mp3" controls="controls">
+			<a href="07 Critical Error in Execution of Shotgun Rules.mp3">Critical Error in Execution of Shotgun Rules</a>
+			</audio>
+			
+			<p>Critical Error in the Execution of Shotgun Rules</p>
+			
+			<audio src="08 Porkchop Sandwiches, Get The Fuck Out.mp3" controls="controls">
+			<a href="08 Porkchop Sandwiches, Get The Fuck Out.mp3">Porkchop Sandwiches, Get The Fuck Out</a>
+			</audio>
+			
+			<p>Porkchop Sandwiches, Get the Fuck Out</p>
+			
+			<a style="padding-left:40px;" href="http://itunes.apple.com/ca/album/adult-braces-ep/id385775498#"><img src="itunes.png"></a>
+			
+			<a href="http://www.cdbaby.com/cd/WeFledCairo"><img src="cdbaby.jpg"></a>
+			
+			<h3 style="padding-left:30px;"><a href="We Fled Cairo Adult Braces.zip">or download album for free</a></h3>
+
+		</div>
+		
+	</div>
+
+</body>
+</html>

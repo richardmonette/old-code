@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{RTR3}
+Tomas Akenine-M\"{o}ller, Eric Haines, and Natty Hoffman.
+\newblock {\em Real-Time Rendering 3rd Edition}.
+\newblock A. K. Peters, Ltd., Natick, MA, USA, 2008.
+
+\bibitem{Arvo93transferequations}
+James Arvo.
+\newblock {\em Transfer Equations in Global Illumination}.
+\newblock 1993.
+
+\bibitem{Arvo:1990:PTI:97880.97886}
+James Arvo and David Kirk.
+\newblock Particle transport and image synthesis.
+\newblock {\em SIGGRAPH Comput. Graph.}, 24:63--66, September 1990.
+
+\bibitem{Chandrasekhar60}
+S.~Chandrasekhar.
+\newblock {\em Radiative Transfer}.
+\newblock New York: Dover Publications. Originally published by Oxford
+  University Press, 1950., 1960.
+
+\bibitem{Jansen:2010:FOM:1730804.1730831}
+Jon Jansen and Louis Bavoil.
+\newblock Fourier opacity mapping.
+\newblock In {\em Proceedings of the 2010 ACM SIGGRAPH symposium on Interactive
+  3D Graphics and Games}, I3D '10, pages 165--172, New York, NY, USA, 2010.
+  ACM.
+
+\bibitem{Kim01opacityshadow}
+Tae-Yong Kim and Ulrich Neumann.
+\newblock Opacity shadow maps.
+\newblock In {\em In Proceedings of the 12th Eurographics Workshop on Rendering
+  Techniques}, pages 177--182. Springer-Verlag, 2001.
+
+\bibitem{Levoy:1990:ERT:78964.78965}
+Marc Levoy.
+\newblock Efficient ray tracing of volume data.
+\newblock {\em ACM Trans. Graph.}, 9:245--261, July 1990.
+
+\bibitem{Lokovic:2000:DSM:344779.344958}
+Tom Lokovic and Eric Veach.
+\newblock Deep shadow maps.
+\newblock In {\em Proceedings of the 27th annual conference on Computer
+  graphics and interactive techniques}, SIGGRAPH '00, pages 385--392, New York,
+  NY, USA, 2000. ACM Press/Addison-Wesley Publishing Co.
+
+\bibitem{fury2010}
+Hahn~E. Madill, J. and B.~Houston.
+\newblock Fury renderer.
+\newblock Exocortex Technologies, Inc. Ottawa, Canada., 2010.
+
+\bibitem{deepopacitymaps08}
+Cem Yuksel and John Keyser.
+\newblock Deep opacity maps.
+\newblock {\em Computer Graphics Forum (Proceedings of EUROGRAPHICS 2008)},
+  27(2), 2008.
+
+\end{thebibliography}

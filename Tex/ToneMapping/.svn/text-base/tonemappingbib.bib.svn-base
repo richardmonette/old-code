@@ -1,0 +1,68 @@
+@article{drago03,
+    author  = "F. Drago, K. Myszkowski, T. Annen and N. Chiba",
+    title   = "Adaptive Logarithmic Mapping for Displaying High Contrast Scenes",
+    year    = "2003",
+	journal = "The Journal of Computer Graphics Forum",
+}
+
+@article{reinhard02,
+    author  = "E. Reinhard, M. Stark, P. Shirley and J. Ferwerda",
+    title   = "Photographic tone reproduction for digital images",
+    year    = "2002",
+	journal = "ACM Trans. Graph. (special issue SIGGRAPH 2002)",
+}
+
+@article{purves99,
+    author  = "D. Purves, A. Shimpi and R. Beau Lotto",
+    title   = "An Empirical Explanation of the Cornsweet Effect",
+    year    = "1999",
+	journal = "The Journal of Neuroscience",
+}
+
+@article{duan05,
+    author  = "J. Duan, G. Qiu and M. Chen",
+    title   = "Comprehensive Fast Tone Mapping for High Dynamic Range Image Visualization",
+    year    = "2005",
+}
+
+@article{kim96,
+    author  = "Y. Kim",
+    title   = "Contrast Enhacement Using Brightness Preserving Bi-Histogram Equalization",
+    year    = "1996",
+	journal = "IEEE Transactions on Consumer Electronics"
+}
+
+@article{chen03,
+    author  = "S. Chen and R. Ramli",
+    title   = "Minimum Mean Brightness Error Bi-Histogram Equalization in Contrast Enhancement",
+    year    = "2003",
+	journal = "IEEE Transactions on Consumer Electronics"
+}
+
+@article{ward97,
+    author  = "G. W. Larson, H. Rushmeier and C. Piatko",
+    title   = "A Visibility Matching Tone Reproduction Operator for High Dynamic Range Scenes",
+    year    = "1997",
+	journal = ""
+}
+
+@article{wang05,
+    author  = "C. Wang and Z. Ye",
+    title   = "Brightness Preserving Histogram Equalization with Maximum Entropy: A Variational Perspective",
+    year    = "2005",
+	journal = "IEEE Transactions on Consumer Electronics, Vol. 51, No. 4"
+}
+
+@article{wiki_corn,
+	author  = "Wikipedia Commons",
+	title = "Cornsweet Illusion",
+	year = "2010",
+
+}
+
+@article{unsharp,
+	title = "Sharpening: Unsharp Mask",
+	author = "S. McHugh",
+	year = "2010",
+	note  = "www.cambridgeincolour.com/tutorials/unsharp-mask.htm",
+}

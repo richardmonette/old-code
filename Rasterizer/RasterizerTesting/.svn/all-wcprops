@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/145/trunk/Rasterizer/RasterizerTesting
+END
+Plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/70/trunk/Rasterizer/RasterizerTesting/Plane.h
+END
+bsp.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/82/trunk/Rasterizer/RasterizerTesting/bsp.as
+END
+Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/92/trunk/Rasterizer/RasterizerTesting/Texture.h
+END
+Frustum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/100/trunk/Rasterizer/RasterizerTesting/Frustum.cpp
+END
+Renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/143/trunk/Rasterizer/RasterizerTesting/Renderer.cpp
+END
+flypathin.path
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/145/trunk/Rasterizer/RasterizerTesting/flypathin.path
+END
+RasterizerTesting.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/145/trunk/Rasterizer/RasterizerTesting/RasterizerTesting.vcxproj.filters
+END
+RasterizerTesting.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/143/trunk/Rasterizer/RasterizerTesting/RasterizerTesting.vcproj
+END
+Frustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/100/trunk/Rasterizer/RasterizerTesting/Frustum.h
+END
+Triangulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/143/trunk/Rasterizer/RasterizerTesting/Triangulator.cpp
+END
+Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/Rasterizer/RasterizerTesting/Renderer.h
+END
+FastCast.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/67/trunk/Rasterizer/RasterizerTesting/FastCast.h
+END
+RasterizerTesting.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/145/trunk/Rasterizer/RasterizerTesting/RasterizerTesting.vcxproj.user
+END
+Triangulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/Rasterizer/RasterizerTesting/Triangulator.h
+END
+Timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/92/trunk/Rasterizer/RasterizerTesting/Timer.cpp
+END
+Math3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/Rasterizer/RasterizerTesting/Math3D.cpp
+END
+ColladaModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/47/trunk/Rasterizer/RasterizerTesting/ColladaModel.cpp
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/92/trunk/Rasterizer/RasterizerTesting/Timer.h
+END
+Math3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/92/trunk/Rasterizer/RasterizerTesting/Math3D.h
+END
+ColladaModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/Rasterizer/RasterizerTesting/ColladaModel.h
+END
+RasterizerTesting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/143/trunk/Rasterizer/RasterizerTesting/RasterizerTesting.cpp
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/Rasterizer/RasterizerTesting/Camera.cpp
+END
+Flythrough.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/145/trunk/Rasterizer/RasterizerTesting/Flythrough.cpp
+END
+RasterizerTesting.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/100/trunk/Rasterizer/RasterizerTesting/RasterizerTesting.h
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/trunk/Rasterizer/RasterizerTesting/Camera.h
+END
+Plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/70/trunk/Rasterizer/RasterizerTesting/Plane.cpp
+END
+Texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/48/trunk/Rasterizer/RasterizerTesting/Texture.cpp
+END
+Flythrough.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/145/trunk/Rasterizer/RasterizerTesting/Flythrough.h
+END
+RasterizerTesting.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/145/trunk/Rasterizer/RasterizerTesting/RasterizerTesting.vcxproj
+END

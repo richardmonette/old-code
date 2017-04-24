@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers
+END
+ModelManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/ModelManager.h
+END
+TextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/TextureManager.h
+END
+LuaManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/LuaManager.h
+END
+MeshManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/MeshManager.cpp
+END
+UIManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/UIManager.cpp
+END
+SceneManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/SceneManager.cpp
+END
+InputManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/InputManager.cpp
+END
+TextureManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/TextureManager.cpp
+END
+ModelManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/ModelManager.cpp
+END
+MeshManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/MeshManager.h
+END
+LuaManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/LuaManager.cpp
+END
+UIManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/UIManager.h
+END
+SceneManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/SceneManager.h
+END
+InputManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/DirectXLearning1/DirectXLearning1/Managers/InputManager.h
+END

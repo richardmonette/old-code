@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Computer Graphics - Richard Monette - Carleton University</title>
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+	<!-- Import fancy-type plugin for the sample page. -->
+	<link rel="stylesheet" href="blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+
+</head>
+<body>
+
+	<div class="container">
+		<br>
+		<h1>Through the Digital Lens</h1>
+
+		<hr>
+		<h3 class="alt">The computer graphics work of Richard Monette</h3>
+		<hr>
+	</div>
+	
+	<div class="container">	
+		<div class="span-12 colborder" style="text-align:center;">
+			<span class="alt"><a href="index.html">Home</a></span>
+		</div>
+		<div class="span-11 last"  style="text-align:center;">
+			<span class="alt"><a href="mailto:richard dot monette at gmail dot com">Contact</a></span>
+		</div>
+	</div>
+	
+	<br>
+
+	<div class="container">
+		
+		<div class="span-13 prepend-1 colborder">	
+			<h3>Tone Mapping Operators</h3>
+			
+			<p>
+				ToneMapper (currently) implements the following operators (loosely attributed to various researchers, although my implementations 
+				certainly are not "reference" in quality)
+			</p>
+			
+			<ul>
+					<li>
+						Raw RGB
+						<ul style="list-style-type: none">
+							<li>Just dumps the RGB values without and exponentiation</li>
+						</ul>
+					</li>
+					<li>Max To White
+						<ul style="list-style-type: none">
+							<li>Straight linear normalization based off whatever max luminance is found</li>
+						</ul>
+					</li>
+					<li>
+						Local Contrast
+						<ul style="list-style-type: none">
+							<li>Based upon: Ward, G. J. <span class="alt">A contrast-based scalefactor for luminance display.</span> In P.Heckbert (Ed.) Graphics Gems IV, pp.415-421.</li>
+						</ul>
+					</li>
+					<li>
+						Non-linear
+						<ul style="list-style-type: none">
+							<li>Based upon: Reinhard, E., M. Stark, P. Shirley and J. Ferwerda. 2002. <span class="alt">Photographic tone reproduction for digital images.</span> ACM Transactions on Graphics 21(3), 267-76. Proceedings of ACM SIGGRAPH 2002.</li>
+						</ul>
+					</li>
+					<li>Default
+						<ul style="list-style-type: none">
+							<li>Applies exponentiation and uses clamping</li>
+						</ul>
+					</li>
+			</ul>
+			
+		</div>
+
+		<div class="span-9 last">	
+
+			<h3>Tone <span class="alt">Mapping</span></h3>
+
+				ToneMapper is a simple little command line application that can read .hdr/.pic images that use the <a href="http://en.wikipedia.org/wiki/RGBE_image_format">RGBE</a> format and output them
+				as tone mapped <a href="http://www.libpng.org/pub/png/png-sitemap.html#info">PNG</a> images.
+			<br>
+			<br>
+				In order to read the raw data out of the RGBE files Bruce Walter's <a href="http://www.graphics.cornell.edu/online/formats/rgbe/">code</a> is used.
+				<a href="http://www.sfml-dev.org/">SFML</a> is used to save out the PNGs.
+		</div>
+
+	</div>
+	
+	<div class="container">
+	
+		<div class="span-24">
+		
+			<div align="center">
+		
+				<img src="http://farm3.static.flickr.com/2758/4480810768_ca5226f6d2_m.jpg"/>
+				
+				<img src="http://farm3.static.flickr.com/2801/4480161351_051d6c7420_m.jpg"/>
+				
+				<img src="http://farm5.static.flickr.com/4065/4480161197_1bf886f16d_m.jpg"/>
+				
+				<img src="http://farm5.static.flickr.com/4072/4480810458_b3256715b2_m.jpg"/>
+				
+				<img src="http://farm5.static.flickr.com/4005/4480810128_94a6837fc2_m.jpg"/>
+		
+			</div>
+		
+		</div>
+	
+	</div>
+
+	<br>
+	
+	<div class="container">
+		<hr>
+		<p class="alt">Computer Graphics - Richard Monette - Carleton University</p>
+		<hr>
+
+		<p><a href="http://validator.w3.org/check?uri=referer">
+		<img src="valid.png" alt="Valid HTML 4.01 Strict" height="31" width="88" class="top"></a></p>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/215/trunk/OctreeTest/Debug
+END
+OctreeTest.exe
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/215/trunk/OctreeTest/Debug/OctreeTest.exe
+END
+OctreeTest.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/215/trunk/OctreeTest/Debug/OctreeTest.pdb
+END
+glut32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/212/trunk/OctreeTest/Debug/glut32.dll
+END
+OctreeTest.ilk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/215/trunk/OctreeTest/Debug/OctreeTest.ilk
+END

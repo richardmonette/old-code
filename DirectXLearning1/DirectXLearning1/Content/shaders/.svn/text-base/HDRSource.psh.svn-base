@@ -1,0 +1,14 @@
+
+float HDRScalar = 3.0f;
+
+float4 main( in float4 c : COLOR ) : COLOR
+{
+
+    return float4( 
+                    c.r * HDRScalar,
+                    c.g * HDRScalar,
+                    c.b * HDRScalar,
+                    1.0f
+                );
+                
+}

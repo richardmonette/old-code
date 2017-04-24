@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Computer Graphics - Richard Monette - Carleton University</title>
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+	<!-- Import fancy-type plugin for the sample page. -->
+	<link rel="stylesheet" href="blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	
+	<script type="text/javascript" src="js/prototype.js"></script>
+	<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+	<script type="text/javascript" src="js/lightbox.js"></script>
+	
+	<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+	
+</head>
+
+<body>
+
+	<div class="container">
+		<br>
+		<h1>Through the Digital Lens</h1>
+
+		<hr>
+		<h3 class="alt">The computer graphics work of Richard Monette</h3>
+		<hr>
+	</div>
+	
+	<div class="container">	
+		<div class="span-12 colborder" style="text-align:center;">
+			<span class="alt"><a href="index.html">Home</a></span>
+		</div>
+		<div class="span-11 last"  style="text-align:center;">
+			<span class="alt"><a href="mailto:richard dot monette at gmail dot com">Contact</a></span>
+		</div>
+	</div>
+	
+	<br>
+
+	<div class="container">
+				
+		<div class="span-12 colborder">	
+		
+			<a rel="lightbox" href="images/cornell.png"><img src="images/cornell.png" width="220" height="220"/></a>	
+			
+			&nbsp
+			
+			<a rel="lightbox" href="images/cowscene.png"><img src="images/cowscene.png" width="220" height="220"/></a>	
+			
+			<br><br>
+			
+			<a rel="lightbox" href="images/exampleRoom.png"><img src="images/exampleRoom.png" width="256" height="256"/></a>	
+			
+			<br><br>
+			
+			UV texture mapping support
+		
+		</div>
+
+		<div class="span-9 prepend-2 last">	
+
+			<h3>Stochastic Path Tracing / Distribution Ray Tracing</h3>
+			
+			For the <a href="http://www.site.uottawa.ca/~jlang/CSI5146/syllabus.html">CSI5146 Advance Computer Graphics</a> course at Ottawa University, I implemented a stochastic path tracing renderer as my term project.
+			
+			<br><br>
+			
+			The renderer I implemented has the following features:
+			
+			<br><br>
+			
+			<ul>
+			
+				<li>Moller-Trumbore Ray Triangle Intersection
+					<br>
+					<a href="http://portal.acm.org/citation.cfm?id=1198555.1198746&coll=GUIDE&dl=GUIDE&CFID=95846128&CFTOKEN=39758449">
+					Fast, minimum storage ray/triangle intersection</a>
+				</li>
+				<li>Octree Space Partitioning</li>
+					<br>
+					Using the octree data structure reduces the number of ray-triangle intersection tests required accelerating rendering
+					<br><br>
+				<li>Barycentric Normal Interpolation</li>
+				<li>.obj Scene File Support</li>
+				<li>Lambertian Diffuse BRDF</li>
+				<li>Pure Specular (Mirror) BRDF</li>
+				<li>Reflection/Refraction BRDF</li>
+				<li>Explicit Emitter Sampling</li>
+					<br>
+					Since the location of all emitters in the scene is known, it is possible to use an extra ray cast to a randomly sampled emitter
+					in order to reduce the number of samples required to converge on the 'correct' solution. In order to ensure that the light contribution is not duplicated
+					the direct emission is only included at the first sample.<br><br>
+				<li>UV Texture Mapping</li>
+			
+			</ul>
+			
+			<br>
+			
+		</div>
+
+	</div>
+		
+	<br>
+	
+	<div class="container">
+		<hr>
+		<p class="alt">Computer Graphics - Richard Monette - Carleton University</p>
+		<hr>
+
+		<p><a href="http://validator.w3.org/check?uri=referer">
+		<img src="images/valid.png" alt="Valid HTML 4.01 Strict" height="31" width="88" class="top"></a></p>
+	</div>
+
+</body>
+</html>

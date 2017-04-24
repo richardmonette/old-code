@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/114/trunk/Minitracer/MiniTracer
+END
+MiniLight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/MiniLight.cpp
+END
+scene.obj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/77/trunk/Minitracer/MiniTracer/scene.obj
+END
+SpatialIndex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/75/trunk/Minitracer/MiniTracer/SpatialIndex.cpp
+END
+Octree.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/Minitracer/MiniTracer/Octree.h
+END
+RandomMwc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/76/trunk/Minitracer/MiniTracer/RandomMwc.cpp
+END
+Image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/Image.hpp
+END
+Textures.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/77/trunk/Minitracer/MiniTracer/Textures.h
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/Camera.cpp
+END
+SpatialIndex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/75/trunk/Minitracer/MiniTracer/SpatialIndex.hpp
+END
+RayTracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/RayTracer.cpp
+END
+RandomMwc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/76/trunk/Minitracer/MiniTracer/RandomMwc.hpp
+END
+MiniTracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/76/trunk/Minitracer/MiniTracer/MiniTracer.cpp
+END
+Camera.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/75/trunk/Minitracer/MiniTracer/Camera.hpp
+END
+hxa7241_general.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/75/trunk/Minitracer/MiniTracer/hxa7241_general.hpp
+END
+RayTracer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/RayTracer.hpp
+END
+SurfacePoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/SurfacePoint.cpp
+END
+cowscene.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/107/trunk/Minitracer/MiniTracer/cowscene.txt
+END
+Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/76/trunk/Minitracer/MiniTracer/Global.h
+END
+Triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/Triangle.cpp
+END
+PhotonMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/PhotonMap.cpp
+END
+MiniTracer.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/114/trunk/Minitracer/MiniTracer/MiniTracer.vcxproj
+END
+RayTriangleIntersect.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/74/trunk/Minitracer/MiniTracer/RayTriangleIntersect.h
+END
+SurfacePoint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/SurfacePoint.hpp
+END
+scene.mtl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/77/trunk/Minitracer/MiniTracer/scene.mtl
+END
+Triangle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/77/trunk/Minitracer/MiniTracer/Triangle.hpp
+END
+MiniTracer.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/114/trunk/Minitracer/MiniTracer/MiniTracer.vcxproj.filters
+END
+OctreeLeaf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/76/trunk/Minitracer/MiniTracer/OctreeLeaf.h
+END
+MiniTracer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/77/trunk/Minitracer/MiniTracer/MiniTracer.vcproj
+END
+Octree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/76/trunk/Minitracer/MiniTracer/Octree.cpp
+END
+render.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/77/trunk/Minitracer/MiniTracer/render.png
+END
+hxa7241_graphics.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/75/trunk/Minitracer/MiniTracer/hxa7241_graphics.hpp
+END
+Textures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/107/trunk/Minitracer/MiniTracer/Textures.cpp
+END
+MiniTracer.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114/trunk/Minitracer/MiniTracer/MiniTracer.vcxproj.user
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/74/trunk/Minitracer/MiniTracer/Image.h
+END
+scene.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/scene.txt
+END
+Vector3f.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/75/trunk/Minitracer/MiniTracer/Vector3f.cpp
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/Scene.cpp
+END
+Primitives.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/75/trunk/Minitracer/MiniTracer/Primitives.hpp
+END
+Vector3f.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/75/trunk/Minitracer/MiniTracer/Vector3f.hpp
+END
+MiniTracer.vcproj.EXPERIENCE.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110/trunk/Minitracer/MiniTracer/MiniTracer.vcproj.EXPERIENCE.Administrator.user
+END
+MiniTracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/75/trunk/Minitracer/MiniTracer/MiniTracer.h
+END
+Scene.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/77/trunk/Minitracer/MiniTracer/Scene.hpp
+END
+cornellbox.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/110/trunk/Minitracer/MiniTracer/cornellbox.txt
+END
+Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/72/trunk/Minitracer/MiniTracer/Shape.h
+END
+hxa7241_minilight.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/77/trunk/Minitracer/MiniTracer/hxa7241_minilight.hpp
+END
+OctreeLeaf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/76/trunk/Minitracer/MiniTracer/OctreeLeaf.cpp
+END
+PhotonMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/113/trunk/Minitracer/MiniTracer/PhotonMap.h
+END
+background.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/Minitracer/MiniTracer/background.png
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/112/trunk/Minitracer/MiniTracer/Image.cpp
+END
